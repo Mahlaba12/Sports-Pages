@@ -1,0 +1,164 @@
+{
+    "_netball_standings": [
+    {
+      "league_id": 2008,
+      "team_id": 22031,
+      "played": 5,
+      "won": 4,
+      "lost": 2,
+      "points": 13
+    },
+    {
+      "league_id": 2008,
+      "team_id": 10000,
+      "played": 5,
+      "won": 0,
+      "lost": 2,
+      "points": 6
+    },
+    {
+      "league_id": 2008,
+      "team_id": 22231,
+      "played": 5,
+      "won": 1,
+      "lost": 2,
+      "points": 15
+    },
+    {
+      "league_id": 2008,
+      "team_id": 21301,
+      "played": 5,
+      "won": 5,
+      "lost": 4,
+      "points": 10
+    },
+    {
+      "league_id": 2008,
+      "team_id": 22231,
+      "played": 5,
+      "won": 3,
+      "lost": 0,
+      "points": 13
+    },
+    {
+      "league_id": 2009,
+      "team_id": 22230,
+      "played": 5,
+      "won": 2,
+      "lost": 1,
+      "points": 10
+    },
+    {
+      "league_id": 2009,
+      "team_id": 10000,
+      "played": 5,
+      "won": 5,
+      "lost": 5,
+      "points": 7
+    },
+    {
+      "league_id": 2009,
+      "team_id": 22230,
+      "played": 5,
+      "won": 1,
+      "lost": 1,
+      "points": 6
+    },
+    {
+      "league_id": 2009,
+      "team_id": 30001,
+      "played": 5,
+      "won": 3,
+      "lost": 1,
+      "points": 9
+    },
+    {
+      "league_id": 2009,
+      "team_id": 21301,
+      "played": 5,
+      "won": 5,
+      "lost": 4,
+      "points": 9
+    },
+    {
+      "league_id": 3005,
+      "team_id": 10000,
+      "played": 5,
+      "won": 2,
+      "lost": 3,
+      "points": 0
+    },
+    {
+      "league_id": 3005,
+      "team_id": 22231,
+      "played": 5,
+      "won": 5,
+      "lost": 5,
+      "points": 12
+    },
+    {
+      "league_id": 3005,
+      "team_id": 21301,
+      "played": 5,
+      "won": 5,
+      "lost": 1,
+      "points": 8
+    },
+    {
+      "league_id": 3005,
+      "team_id": 22230,
+      "played": 5,
+      "won": 4,
+      "lost": 5,
+      "points": 2
+    },
+    {
+      "league_id": 3005,
+      "team_id": 21301,
+      "played": 5,
+      "won": 4,
+      "lost": 1,
+      "points": 3
+    },
+    {
+      "league_id": 3006,
+      "team_id": 21301,
+      "played": 5,
+      "won": 4,
+      "lost": 2,
+      "points": 13
+    },
+    {
+      "league_id": 3006,
+      "team_id": 22230,
+      "played": 5,
+      "won": 5,
+      "lost": 0,
+      "points": 4
+    },
+    {
+      "league_id": 3006,
+      "team_id": 10000,
+      "played": 5,
+      "won": 0,
+      "lost": 3,
+      "points": 7
+    },
+    {
+      "league_id": 3006,
+      "team_id": 22231,
+      "played": 5,
+      "won": 3,
+      "lost": 1,
+      "points": 1
+    },
+    {
+      "league_id": 3006,
+      "team_id": 21301,
+      "played": 5,
+      "won": 0,
+      "lost": 5,
+      "points": 9
+    }
+  ]
+}

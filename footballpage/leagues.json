@@ -1,0 +1,106 @@
+{
+    "men's_leagues": [
+        {
+            "league_id": 2001,
+            "league_image": "https://safa.net/wp-content/uploads/2019/12/abc-motsepe-trophy.png",
+            "league_name": "SAFA Second Division (ABC Motsepe league)",
+            "season": "2024/2025"
+        },
+
+        {
+            "league_id": 2002,
+            "league_image": "https://w7.pngwing.com/pngs/28/163/png-transparent-ussa-hd-logo.png",
+            "league_name": "University Sport South Africa (USSA) Football Championships",
+            "season": "2024/2025"
+       },
+
+       {
+            "league_id": 2003,
+            "league_image": "https://pbs.twimg.com/profile_images/1005087611948552200/aoXt1UKG_200x200.jpg",
+            "league_name": "FNB Varsity Football Tournament",
+            "season": "2024/2025"
+       },
+       {
+            "league_id": 2004,
+            "league_name": "USSA Cricket Championship",
+            "league_image": "https://cricket.co.za/wp-content/uploads/2019/11/USSA-Tournament-Brochure-1.pdf",
+            "season": "2024/2025"
+        },
+        {
+            "league_id": 2005,
+            "league_name": "USSA Rugby National Championships",
+            "league_image": "https://brandfolder.com/usarugby",
+            "season": "2024/2025"
+        },
+        {
+            "league_id": 2006,
+             "league_name": "Men's Division 1 Basketball",
+            "league_image": "https://www.usab.com/national-events/usa-basketball-youth-tournaments/2025-us-open-basketball-championships-central-championship",
+            "season": "2024/2025"
+        },
+        {
+           "league_id": 2007,
+            "league_name": "USSA Basketball Championship 2025",
+            "league_image": "https://www.usab.com/national-events/usa-basketball-youth-tournaments/2025-us-open-basketball-championships-central-championship",
+            "season": "2024/2025"
+        },
+        {
+            "league_id": 2008,
+            "league_name": "Varsity Netball",
+            "league_image": "https://upload.wikimedia.org/wikipedia/en/3/3e/Varsity_Netball_logo.jpg",
+            "season": "2024/2025"
+        },
+        {
+            "league_id": 2009,
+            "league_name": "USSA Netball Championship",
+            "league_image": "https://www.facebook.com/NetballUSSA/photos/a.101501234567890/101501234567891/",
+            "season": "2024/2025"
+        }
+
+    ],
+
+    "women's_leagues": [
+        {
+            "league_id": 3001,
+            "league_image": "https://www.thamisoccer.co.za/wp-content/uploads/2025/03/GlnM2pUXMAAxiWU.jpeg",
+            "league_name": "Hollywoodbets Super League",
+            "season": "2024/2025"
+        },
+        {
+            "league_id": 3002,
+            "league_image": "https://ussarowing.wordpress.com/wp-content/uploads/2017/03/ussa-logo.gif ",
+            "league_name": "USSA Football Championship",
+            "season": "2024/2025"
+        },
+        {
+            "league_id": 3003,
+            "league_image": "https://upload.wikimedia.org/wikipedia/en/6/6d/Women%27s_Varsity_Football_logo.jpg",
+            "league_name": "FNB Varsity Women's Foootball",
+            "season": "2024/2025"
+        },
+        {
+            "league_id": 3004,
+            "league_name": "USSA Basketball Championship 2025",
+            "league_image": "https://www.usab.com/national-events/usa-basketball-youth-tournaments/2025-us-open-basketball-championships-central-championship",
+            "season": "2024/2025"
+       },
+       {
+            "league_id": 3005,
+            "league_name": "Varsity Netball",
+            "league_image": "https://upload.wikimedia.org/wikipedia/en/3/3e/Varsity_Netball_logo.jpg",
+            "season": "2024/2025"
+       },
+       {
+            "league_id": 3006,
+            "league_name": "USSA Netball Championship",
+            "league_image": "https://www.facebook.com/NetballUSSA/photos/a.101501234567890/101501234567891/",
+            "season": "2024/2025"
+        },
+        {
+            "league_id": 3007,
+            "league_name": "Ladies Division Basketball",
+            "league_image": "https://www.usab.com/national-events/usa-basketball-youth-tournaments/2025-us-open-basketball-championships-central-championship",
+            "season": "2024/2025"
+        }
+    ]
+}

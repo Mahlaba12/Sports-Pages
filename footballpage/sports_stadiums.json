@@ -1,0 +1,245 @@
+{
+  "football_stadiums": [
+    {
+      "league_id": 2001,
+      "stadium_name": "TUT Stadium",
+      "capacity": 10000,
+      "city": "Pretoria",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/9/95/TUT_Stadium.jpg"
+    },
+    {
+      "league_id": 2002,
+      "stadium_name": "UJ Soweto Stadium",
+      "capacity": 5000,
+      "city": "Johannesburg",
+      "image": "https://i.imgur.com/uJstadium.jpg"
+    },
+    {
+      "league_id": 2003,
+      "stadium_name": "Tuks Stadium",
+      "capacity": 12000,
+      "city": "Pretoria",
+      "image": "https://i.imgur.com/tuksstadium.jpg"
+    },
+    {
+      "league_id": 2004,
+      "stadium_name": "Willowmoore Park",
+      "capacity": 20000,
+      "city": "Benoni",
+      "image": "https://upload.wikimedia.org/wikipedia/commons/3/30/Willowmoore_Park.jpg"
+    },
+    {
+      "league_id": 2005,
+      "stadium_name": "UJ Rugby Stadium",
+      "capacity": 7000,
+      "city": "Johannesburg",
+      "image": "https://upload.wikimedia.org/uj_rugby_stadium.jpg"
+    },
+    {
+      "league_id": 2006,
+      "stadium_name": "Mandeville Indoor Centre",
+      "capacity": 2000,
+      "city": "Johannesburg",
+      "image": "https://upload.wikimedia.org/mande_basketball_arena.jpg"
+    },
+    {
+      "league_id": 2007,
+      "stadium_name": "USSA Basketball Arena",
+      "capacity": 2500,
+      "city": "Pretoria",
+      "image": "https://upload.wikimedia.org/ussa_basketball_court.jpg"
+    },
+    {
+      "league_id": 2008,
+      "stadium_name": "Rembrandt Hall (Tuks)",
+      "capacity": 3000,
+      "city": "Pretoria",
+      "image": "https://upload.wikimedia.org/rembrandt_hall_tuks.jpg"
+    },
+    {
+      "league_id": 2009,
+      "stadium_name": "UJ Netball Court",
+      "capacity": 1500,
+      "city": "Johannesburg",
+      "image": "https://upload.wikimedia.org/uj_netball_court.jpg"
+    }
+  ],
+"netball_stadiums": [
+    {
+      "team_id": 10000,
+      "stadium_name": "UJ Netball Court",
+      "location": "UJ FC Campus",
+      "capacity": 1000,
+      "surface": "Synthetic"
+    },
+    {
+      "team_id": 21301,
+      "stadium_name": "UL Netball Arena",
+      "location": "NWU Campus",
+      "capacity": 1000,
+      "surface": "Synthetic"
+    },
+    {
+      "team_id": 22231,
+      "stadium_name": "UL Netball Arena",
+      "location": "UL Campus",
+      "capacity": 1500,
+      "surface": "Synthetic"
+    },
+    {
+      "team_id": 22230,
+      "stadium_name": "NWU Netball Arena",
+      "location": "Venda Campus",
+      "capacity": 2000,
+      "surface": "Hard court"
+    },
+    {
+      "team_id": 22031,
+      "stadium_name": "UKZN Netball Grounds",
+      "location": "UKZN Campus",
+      "capacity": 1500,
+      "surface": "Wooden"
+    },
+    {
+      "team_id": 30001,
+      "stadium_name": "NWU Netball Arena",
+      "location": "UFS Campus",
+      "capacity": 1500,
+      "surface": "Hard court"
+    }
+  ],
+
+    "rugby_stadiums": [
+        {
+            "stadium_id": 1,
+            "name": "UJ FC Stadium",
+            "location": "UJ FC City",
+            "capacity": 19717
+        },
+        {
+            "stadium_id": 2,
+            "name": "Stellenbosch University (Maties) Stadium",
+            "location": "Stellenbosch University (Maties) City",
+            "capacity": 17457
+        },
+        {
+            "stadium_id": 3,
+            "name": "Wits University Stadium",
+            "location": "Wits University City",
+            "capacity": 16548
+        },
+        {
+            "stadium_id": 4,
+            "name": "UFS Stadium",
+            "location": "UFS City",
+            "capacity": 17970
+        },
+        {
+            "stadium_id": 5,
+            "name": "Fort Hare Stadium",
+            "location": "Fort Hare City",
+            "capacity": 21447
+        },
+        {
+            "stadium_id": 6,
+            "name": "Walter Sisulu Stadium",
+            "location": "Walter Sisulu City",
+            "capacity": 12864
+        },
+        {
+            "stadium_id": 7,
+            "name": "Zululand Stadium",
+            "location": "Zululand City",
+            "capacity": 23533
+        },
+        {
+            "stadium_id": 8,
+            "name": "NWU Stadium",
+            "location": "NWU City",
+            "capacity": 20740
+        },
+        {
+            "stadium_id": 9,
+            "name": "UL Stadium",
+            "location": "UL City",
+            "capacity": 5220
+        },
+        {
+            "stadium_id": 10,
+            "name": "Venda Stadium",
+            "location": "Venda City",
+            "capacity": 21018
+        },
+        {
+            "stadium_id": 11,
+            "name": "UKZN Stadium",
+            "location": "UKZN City",
+            "capacity": 13310
+        },
+        {
+            "stadium_id": 12,
+            "name": "CPUT Stadium",
+            "location": "CPUT City",
+            "capacity": 20061
+        },
+        {
+            "stadium_id": 13,
+            "name": "DUT Stadium",
+            "location": "DUT City",
+            "capacity": 10097
+        },
+        {
+            "stadium_id": 14,
+            "name": "TUT Stadium",
+            "location": "TUT City",
+            "capacity": 17255
+        },
+        {
+            "stadium_id": 15,
+            "name": "VUT Stadium",
+            "location": "VUT City",
+            "capacity": 17675
+        },
+        {
+            "stadium_id": 16,
+            "name": "CUT Stadium",
+            "location": "CUT City",
+            "capacity": 21193
+        },
+        {
+            "stadium_id": 17,
+            "name": "Fort Hare B Stadium",
+            "location": "Fort Hare B City",
+            "capacity": 14709
+        }
+    ],
+
+"basketball_stadiums": [
+    {
+      "stadium_id": 201,
+      "name": "UJ Basketball Arena",
+      "location": "University of Johannesburg Campus",
+      "capacity": 3500
+    },
+    {
+      "stadium_id": 202,
+      "name": "UCT Indoor Stadium",
+      "location": "University of Cape Town Campus",
+      "capacity": 3000
+    }
+  ],
+
+  "cricket_stadiums": [
+    { "stadium_id": 1, "name": "UJ Oval", "location": "Johannesburg", "capacity": 5000 },
+    { "stadium_id": 2, "name": "Wits Cricket Ground", "location": "Braamfontein", "capacity": 4000 },
+    { "stadium_id": 3, "name": "Maties Field", "location": "Stellenbosch", "capacity": 4500 },
+    { "stadium_id": 4, "name": "Shimla Park", "location": "Bloemfontein", "capacity": 3500 },
+    { "stadium_id": 5, "name": "Fort Hare Cricket Ground", "location": "Alice", "capacity": 3000 },
+    { "stadium_id": 6, "name": "Walter Sisulu Grounds", "location": "Mthatha", "capacity": 2500 },
+    { "stadium_id": 7, "name": "Zululand Oval", "location": "KwaDlangezwa", "capacity": 2800 },
+    { "stadium_id": 8, "name": "CPUT Pitch", "location": "Cape Town", "capacity": 3700 },
+    { "stadium_id": 9, "name": "DUT Cricket Field", "location": "Durban", "capacity": 3300 },
+    { "stadium_id": 10, "name": "TUT Grounds", "location": "Pretoria", "capacity": 3600 }
+  ]
+  
+}

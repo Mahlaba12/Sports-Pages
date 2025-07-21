@@ -1,0 +1,138 @@
+body {
+    margin: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #1e1e1e;
+    color: #000000;
+}
+
+header {
+    background-image: linear-gradient(rgba(255, 111, 0, 0.5), rgba(255, 94, 0, 0.5)), url(nav.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    padding: 1rem 2rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 60px;
+}
+
+.self{
+    color: rgb(255, 205, 42);
+    background-color: transparent;
+    font-size: larger;
+    text-decoration: underline;
+    height: 100px;
+}
+.self:hover{
+    text-decoration: underline;
+    font-size: larger;
+}
+
+nav a {
+    margin-left: 1.5rem;
+    color: #fff;
+    text-decoration: none;
+    font-weight: 500;
+}
+nav a:hover{
+  font-size: large;
+  text-decoration: underline;
+}
+
+  header h1 {
+    margin: 0;
+    font-size: 1.8rem;
+    
+}
+  
+#back-button {
+    display: inline-block;
+    margin: 1rem;
+    background-color: #fff;
+    color: #ff6b00;
+    border: 2px solid #003366;
+    padding: 0.5rem 1rem;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+  }
+  
+  #back-button:hover {
+    background-color: #ff6b00;
+    color: white;
+  }
+  
+  section {
+    padding: 1.5rem;
+    background-color: white;
+    margin: 1rem auto;
+    max-width: 800px;
+    border-radius: 8px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+  }
+  
+  section button {
+    margin-bottom: 1rem;
+    background-color: #003366;
+    color: white;
+    padding: 0.4rem 0.8rem;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  section button:hover {
+    background-color: #0055aa;
+  }
+  
+  .team-photo img {
+    width: 100%;
+    border-radius: 8px;
+    object-fit: cover;
+    height: 300px;
+  }
+  
+  h2 {
+    color: #ff6b00;
+  }
+
+  .team-photo h2 {
+    text-align: center;
+  }
+  
+  ul {
+    list-style: none;
+    padding-left: 0;
+  }
+  
+  li {
+    padding: 0.5rem 0;
+    border-bottom: 1px solid #ccc;
+  }
+  
+  /* Loader */
+  .loader {
+    display: none;
+    margin: 1rem auto;
+    border: 4px solid #f3f3f3;
+    border-top: 4px solid #003366;
+    border-radius: 50%;
+    width: 30px;
+    height: 30px;
+    animation: spin 0.7s linear infinite;
+  }
+  
+  @keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+  }
+
+  footer {
+    text-align: center;
+    padding: 20px 0;
+    margin-top: 40px;
+    background-color: #00274d;
+    color: #fff;
+    font-size: 0.9em;
+  }
+  

@@ -1,0 +1,758 @@
+{
+    "football_teams": [
+
+    {
+        "team_id": 10001,
+        "image_url": "https://safagauteng.org.za/wp-content/uploads/2023/03/University-of-Johannesburg-FC_logo.png",
+        "team_name":"UJ Ladies",
+        "team_description": "The UJ Ladies football team is a competitive with a strong focus on skill development and teamwork. They participate in various leagues and tournaments, showcasing their talent and dedication to the sport.",
+        "number_of_leagues": "3"
+    },
+    {
+        "team_id": 10002,
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/c/c6/Mamelodi_Sundowns_F.C.svg",
+        "team_name":"Sundowns Ladies",
+        "team_description": "Sundowns Ladies is a professional football team based in South Africa, known for their excellence.",
+        "number_of_leagues": "1"
+    },
+    {
+        "team_id": 10003,
+        "image_url": "https://lens.usercontent.google.com/image?vsrid=COSW5daY3ar-uQEQAhgBIiQ3OTc4MTBkMS02NjA0LTQyM2QtOTgyNi00ODBlN2E5OTFlMzkyBiICd2UoEDjBj_L8qsuNAw&gsessionid=sDX46Tz9iZS1ncrJqRLLPoV7ksy5bUJOaZFMcJclaPAwGC_VEvWgAA",
+        "team_name":"JVS FC",
+        "team_description": "JVS FC is a competitive football team that emphasizes teamwork and skill development. They participate in various leagues and tournaments, showcasing their talent and dedication to the sport.",
+        "number_of_leagues": "1"
+    },
+    {
+        "team_id": 10004,
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/3/38/The_logo_of_TS_Galaxy_Queens.jpg",
+        "team_name":"TS Galaxy Queens",
+        "team_description": "TS Galaxy Ladies is a professional football team based in South Africa, known for their excellence.",
+        "number_of_leagues": "1"
+    },
+    {
+        "team_id": 10005,
+        "image_url": "https://sportcdns.live/resized/224/224/team/a1d52d6ff9e3c61c20b816a01db35e820442a57168d0f4b0f5f5ebd91947c372.png",
+        "team_name":"Thunderbirds Ladies",
+        "team_description": "Thunderbirds Ladies is a professional football team based in South Africa, known for their excellence.",
+        "number_of_leagues": "1"
+    },
+    {
+        "team_id": 10006,
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/f/f7/Durban_Ladies_new_logo.png",
+        "team_name":"Durban Ladies",
+        "team_description": "Durban Ladies is a professional football team based in South Africa, known for their excellence.",
+        "number_of_leagues": "1"
+    },
+    {
+        "team_id": 10007,
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/5/57/Coal_City_Wizards_logo.jpg",
+        "team_name":"Coal City Wizards",
+        "team_description": "Coal City Wizards is a professional football team based in South Africa, known for their excellence.",
+        "number_of_leagues": "1"
+    },
+    {
+        "team_id": 10008,
+        "image_url": "https://womensrugbydata.com/wrd/wp-content/uploads/2014/03/RichmondWomen300.png",
+        "team_name":"Richmond Ladies",
+        "team_description": "The UJ Ladies football team is a competitive with a strong focus on skill development and teamwork. They participate in various leagues and tournaments, showcasing their talent and dedication to the sport.",
+        "number_of_leagues": "1"
+    },
+    {
+        "team_id": 10009,
+        "image_url": "https://s3-eu-west-1.amazonaws.com/inqaku-master/liveclublogos/6079_Ma-Indies%20Ladies_logo.png",
+        "team_name":"Ma-Indies Ladies",
+        "team_description": "Ma-Indies Ladies is a professional football team based in South Africa, known for their excellence.",
+        "number_of_leagues": "1"
+    },
+    {
+        "team_id": 10010,
+        "image_url": "https://static.wixstatic.com/media/9ef253_8e2ff0e89754477eac69be92fb74ee6d~mv2.jpeg/v1/fill/w_768,h_768,al_c,q_85,enc_avif,quality_auto/9ef253_8e2ff0e89754477eac69be92fb74ee6d~mv2.jpeg",
+        "team_name":"UWC Ladies",
+        "team_description": "UWC Ladies is a professional football team based in South Africa, known for their excellence.",
+        "number_of_leagues": "3"
+    },
+    {
+        "team_id": 10011,
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/f/fc/University_of_Fort_Hare_logo.svg",
+        "team_name":"Fort Hare Ladies",
+        "team_description": "Fort Hare Ladies is a professional football team based in South Africa, known for their excellence.",
+        "number_of_leagues": "3"
+    },
+    {
+        "team_id": 10012,
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/UKZN_logo.svg/1920px-UKZN_logo.svg.png",
+        "team_name":"UKZN Ladies",
+        "team_description": "UKZN Ladies is a professional football team based in South Africa, known for their excellence.",
+        "number_of_leagues": "2"
+    },
+    {
+        "team_id": 10013,
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/University_of_the_Free_State_shield.svg/1200px-University_of_the_Free_State_shield.svg.png",
+        "team_name":"UFS Ladies",
+        "team_description": "UFS Ladies is a professional football team based in South Africa, known for their excellence.",
+        "number_of_leagues": "3"
+    },
+    {
+        "team_id": 10014,
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/2/2c/The_logo_of_TUT_Matsatsantsa.jpg",
+        "team_name":"TUT Ladies",
+        "team_description": "TUT Ladies is a professional football team based in South Africa, known for their excellence.",
+        "number_of_leagues": "3"
+    },
+    {
+        "team_id": 10015,
+        "image_url": "https://www.sahistory.org.za/sites/default/files/field/image/wits-logo.jpg",
+        "team_name":"Wits Ladies",
+        "team_description": "Wits Ladies is a professional football team based in South Africa, known for their excellence.",
+        "number_of_leagues": "1"
+    },
+    {
+        "team_id": 10016,
+        "image_url": "https://law.uct.ac.za/sites/default/files/styles/standard_lg/public/content_migration/law_uct_ac_za/59/images/images.png%2520UCT%2520logo%25201.png?h=e6b7061d&itok=4UlJ7Qnl",
+        "team_name":"UCT Ladies",
+        "team_description": "UCT Ladies is a professional football team based in South Africa, known for their excellence.",
+        "number_of_leagues": "3"
+    },
+    {
+        "team_id": 10017,
+        "image_url": "https://services.nwu.ac.za/sites/services.nwu.ac.za/files/files/designs-branding/NWU-holding-shape-digital-white.png",
+        "team_name":"NWU Ladies",
+        "team_description": "The UJ Ladies football team is a competitive with a strong focus on skill development and teamwork. They participate in various leagues and tournaments, showcasing their talent and dedication to the sport.",
+        "number_of_leagues": "3"
+    },
+    {
+        "team_id": 10018,
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/81/University_of_Pretoria_Coat_of_Arms.png",
+        "team_name":"Tuks Ladies",
+        "team_description": "Tuks Ladies is a professional football team based in South Africa, known for their excellence.",
+        "number_of_leagues": "3"
+    },
+    {
+        "team_id": 10020,
+        "image_url": "http://blogs.sun.ac.za/open-day/files/2024/01/MatiesSport_vertical_centred_GoldandMaroon_RGB-242x300.jpg",
+        "team_name":"Maties Ladies",
+        "team_description": "Maties Ladies is a professional football team based in South Africa, known for their excellence.",
+        "number_of_leagues": "3"
+    },
+    {
+        "team_id": 10021,
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/University_of_Venda_logo.svg/1200px-University_of_Venda_logo.svg.png",
+        "team_name":"Venda Ladies",
+        "team_description": "Venda Ladies is a professional football team based in South Africa, known for their excellence.",
+        "number_of_leagues": "1"
+    },
+    {
+        "team_id": 10022,
+        "image_url": "https://usaf.ac.za/wp-content/uploads/2023/08/University_of_Limpopo-logo.webp",
+        "team_name":"UL Ladies",
+        "team_description": "UL Ladies is a professional football team based in South Africa, known for their excellence.",
+        "number_of_leagues": "1"
+    },
+    {
+        "team_id": 10023,
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/UKZN_logo.svg/1920px-UKZN_logo.svg.png",
+        "team_name":"Zulu Ladies",
+        "team_description": "The UJ Ladies football team is a competitive with a strong focus on skill development and teamwork. They participate in various leagues and tournaments, showcasing their talent and dedication to the sport.",
+        "number_of_leagues": "1"
+    },
+    {
+        "team_id": 10024,
+        "image_url": "https://www.govpage.co.za/uploads/2/4/0/5/24052997/walter-sisulu-university_orig.jpg",
+        "team_name":"Wlter Sisulu Ladies",
+        "team_description": "Wlter Sisulu Ladies is a professional football team based in South Africa, known for their excellence.",
+        "number_of_leagues": "1"
+    },
+    {
+        "team_id": 10025,
+        "image_url": "https://cdn.freelogovectors.net/wp-content/uploads/2022/03/cput_logo_freelogovectors.net_.png",
+        "team_name":"CPUT Ladies",
+        "team_description": "CPUT Ladies is a professional football team based in South Africa, known for their excellence.",
+        "number_of_leagues": "1"
+    },
+    {
+        "team_id": 10026,
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/VUT_logo-TM.png",
+        "team_name":"VUT Ladies",
+        "team_description": "VUT Ladies is a professional football team based in South Africa, known for their excellence.",
+        "number_of_leagues": "2"
+    },
+    {
+        "team_id": 10027,
+        "image_url": "https://s3-eu-west-1.amazonaws.com/inqaku-master/liveclublogos/197_logo.jpg",
+        "team_name":"Madibaz Ladies",
+        "team_description": "Madibaz Ladies is a professional football team based in South Africa, known for their excellence.",
+        "number_of_leagues": "1"
+    }
+
+    ],
+
+    
+  "netball_teams": [
+    {
+      "team_id": 10000,
+      "image_url": "https://safagauteng.org.za/wp-content/uploads/2023/03/University-of-Johannesburg-FC_logo.png",
+      "team_name": "UJ FC",
+      "team_description": "The UJ FC netball team is a powerhouse in university sports, known for their agility and strategic gameplay in the Gauteng Netball League.",
+      "number_of_leagues": 3
+    },
+    {
+      "team_id": 21301,
+      "image_url": "https://static.wixstatic.com/media/9ef253_8e2ff0e89754477eac69be92fb74ee6d~mv2.jpeg/v1/fill/w_768,h_768,al_c,q_85,enc_avif,quality_auto/9ef253_8e2ff0e89754477eac69be92fb74ee6d~mv2.jpeg",
+      "team_name": "NWU",
+      "team_description": "NWU's netball squad is celebrated for their disciplined training regime and consistent performance in national university tournaments.",
+      "number_of_leagues": 3
+    },
+    {
+      "team_id": 22231,
+      "image_url": "https://usaf.ac.za/wp-content/uploads/2023/08/University_of_Limpopo-logo.webp",
+      "team_name": "UL",
+      "team_description": "UL Ladies dominate the court with their fast-paced play and have a reputation for nurturing future netball stars in Limpopo.",
+      "number_of_leagues": 3
+    },
+    {
+      "team_id": 22230,
+      "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/University_of_Venda_logo.svg/1200px-University_of_Venda_logo.svg.png",
+      "team_name": "Venda",
+      "team_description": "Venda's netball team is a rising force, known for their passionate play and strong community support in the Vhembe region.",
+      "number_of_leagues": 3
+    },
+    {
+      "team_id": 22031,
+      "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/UKZN_logo.svg/1920px-UKZN_logo.svg.png",
+      "team_name": "UKZN",
+      "team_description": "UKZN's netball team combines tactical brilliance with athleticism, making them a formidable opponent in KwaZulu-Natal leagues.",
+      "number_of_leagues": 3
+    },
+    {
+      "team_id": 3003,
+      "image_url": "Netball (USSA)",
+      "team_name": "Stellenbosch University (Maties)",
+      "team_description": "Maties netball is synonymous with excellence, boasting a rich history of victories in both Varsity and USSA competitions.",
+      "number_of_leagues": 5
+    },
+    {
+      "team_id": 3003,
+      "image_url": " (USSA)",
+      "team_name": "Wits University",
+      "team_description": "Wits netball team is renowned for their dynamic gameplay and academic-athlete balance, competing at the highest university levels.",
+      "number_of_leagues": 5
+    },
+    {
+      "team_id": 15,
+      "image_url": "https://example.com/images/vut_netball.png",
+      "team_name": "Vaal University of Technology (VUT)",
+      "team_description": "VUT's netball team is a gritty competitor in the Gauteng Netball Super League, known for their resilience and teamwork.",
+      "number_of_leagues": 1
+    },
+    {
+      "team_id": 30001,
+      "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/University_of_the_Free_State_shield.svg/1200px-University_of_the_Free_State_shield.svg.png",
+      "team_name": "UFS",
+      "team_description": "UFS Kovsies netball is a decorated team with multiple championships, revered for their precision and sportsmanship.",
+      "number_of_leagues": 3
+    },
+    {
+      "team_id": 20001,
+      "image_url": "https://upload.wikimedia.org/wikipedia/en/f/fc/University_of_Fort_Hare_logo.svg",
+      "team_name": "Fort Hare",
+      "team_description": "Fort Hare’s netball team is a symbol of pride in the Eastern Cape, blending tradition with modern competitive spirit.",
+      "number_of_leagues": 3
+    }
+  ],
+  "rugby_teams": [
+    {
+      "team_id": 10001,
+      "image_url": "https://safagauteng.org.za/wp-content/uploads/2023/03/University-of-Johannesburg-FC_logo.png",
+      "team_name": "UJ FC",
+      "team_description": "UJ Rugby Club is a powerhouse in Varsity Cup, known for their physicality and innovative coaching strategies.",
+      "number_of_leagues": 3
+    },
+    {
+      "team_id": 3003,
+      "image_url": "Rugby Varsity Cup",
+      "team_name": "Stellenbosch University (Maties)",
+      "team_description": "Maties Rugby is a legacy team with a record-breaking history in the Varsity Cup, producing Springbok talents.",
+      "number_of_leagues": 5
+    },
+    {
+      "team_id": 3003,
+      "image_url": " (USSA)",
+      "team_name": "Wits University",
+      "team_description": "Wits Rugby thrives in high-pressure matches, celebrated for their strategic kicking game and defensive solidity.",
+      "number_of_leagues": 5
+    },
+    {
+      "team_id": 30002,
+      "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/University_of_the_Free_State_shield.svg/1200px-University_of_the_Free_State_shield.svg.png",
+      "team_name": "UFS",
+      "team_description": "UFS Shimlas are famed for their free-flowing attacking rugby and passionate fan base in Bloemfontein.",
+      "number_of_leagues": 3
+    },
+    {
+      "team_id": 20003,
+      "image_url": "https://upload.wikimedia.org/wikipedia/en/f/fc/University_of_Fort_Hare_logo.svg",
+      "team_name": "Fort Hare",
+      "team_description": "Fort Hare Rugby embodies grassroots talent, with a focus on developing players for provincial competitions.",
+      "number_of_leagues": 3
+    },
+    {
+      "team_id": 23230,
+      "image_url": "https://www.govpage.co.za/uploads/2/4/0/5/24052997/walter-sisulu-university_orig.jpg",
+      "team_name": "Walter Sisulu",
+      "team_description": "Walter Sisulu’s rugby team is a rising contender, known for their speed and adaptability in the Eastern Cape leagues.",
+      "number_of_leagues": 3
+    },
+    {
+      "team_id": 21331,
+      "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/14/University_of_Zululand_logo.svg/1200px-University_of_Zululand_logo.svg.png",
+      "team_name": "Zululand",
+      "team_description": "Zululand Rugby thrives on physicality and local talent, making waves in the KZN rugby scene.",
+      "number_of_leagues": 3
+    },
+    {
+      "team_id": 21301,
+      "image_url": "https://static.wixstatic.com/media/9ef253_8e2ff0e89754477eac69be92fb74ee6d~mv2.jpeg/v1/fill/w_768,h_768,al_c,q_85,enc_avif,quality_auto/9ef253_8e2ff0e89754477eac69be92fb74ee6d~mv2.jpeg",
+      "team_name": "NWU",
+      "team_description": "NWU Eagles are a dominant force in university rugby, blending tactical discipline with raw power.",
+      "number_of_leagues": 3
+    },
+    {
+      "team_id": 22231,
+      "image_url": "https://usaf.ac.za/wp-content/uploads/2023/08/University_of_Limpopo-logo.webp",
+      "team_name": "UL",
+      "team_description": "UL Rugby is a growing program with a focus on youth development and competitive spirit in Limpopo.",
+      "number_of_leagues": 3
+    },
+    {
+      "team_id": 22230,
+      "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/University_of_Venda_logo.svg/1200px-University_of_Venda_logo.svg.png",
+      "team_name": "Venda",
+      "team_description": "Venda’s rugby team is known for their passionate play and community-driven approach to the sport.",
+      "number_of_leagues": 3
+    },
+    {
+      "team_id": 22031,
+      "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/UKZN_logo.svg/1920px-UKZN_logo.svg.png",
+      "team_name": "UKZN",
+      "team_description": "UKZN Rugby balances academic rigor with on-field intensity, competing fiercely in coastal tournaments.",
+      "number_of_leagues": 3
+    },
+    {
+      "team_id": 22330,
+      "image_url": "https://cdn.freelogovectors.net/wp-content/uploads/2022/03/cput_logo_freelogovectors.net_.png",
+      "team_name": "CPUT",
+      "team_description": "CPUT Rugby is a technical and agile team, making strides in the Western Cape university circuit.",
+      "number_of_leagues": 3
+    },
+    {
+      "team_id": 22231,
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/The_Durban_University_of_Technology_new_log.jpg",
+      "team_name": "DUT",
+      "team_description": "DUT’s rugby squad is a blend of skill and tenacity, often punching above their weight in KZN leagues.",
+      "number_of_leagues": 3
+    },
+    {
+      "team_id": 20031,
+      "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/49/Tshwane_University_of_Technology_logo.svg/1200px-Tshwane_University_of_Technology_logo.svg.png",
+      "team_name": "TUT",
+      "team_description": "TUT Vikings are known for their robust forward play and strong set-pieces in Gauteng competitions.",
+      "number_of_leagues": 3
+    },
+    {
+      "team_id": 26231,
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/VUT_logo-TM.png",
+      "team_name": "VUT",
+      "team_description": "VUT Rugby is a developmental hub, emphasizing player growth and competitive exposure in the Vaal region.",
+      "number_of_leagues": 4
+    },
+    {
+      "team_id": 25231,
+      "image_url": "https://cms.cut.ac.za/Files/Froala/1fe976e3-b12d-49a3-9fca-461f917eadb1.jpg",
+      "team_name": "CUT",
+      "team_description": "CUT Ixias are Free State’s pride, with a reputation for thrilling running rugby and fan engagement.",
+      "number_of_leagues": 3
+    },
+    {
+      "team_id": 20002,
+      "image_url": "https://upload.wikimedia.org/wikipedia/en/f/fc/University_of_Fort_Hare_logo.svg",
+      "team_name": "Fort Hare",
+      "team_description": "Fort Hare’s second rugby team focuses on nurturing emerging talent for the senior squad.",
+      "number_of_leagues": 3
+    }
+  ],
+  "basket_ball": [
+    {
+      "team_id": 10002,
+      "image_url": "https://safagauteng.org.za/wp-content/uploads/2023/03/University-of-Johannesburg-FC_logo.png",
+      "team_name": "UJ FC",
+      "team_description": "UJ Basketball is a high-octane team, excelling in fast breaks and three-point shooting in USSA tournaments.",
+      "number_of_leagues": 3
+    },
+    {
+      "team_id": 3003,
+      "image_url": "Basketball (USSA)",
+      "team_name": "Wits University",
+      "team_description": "Wits Basketball combines academic brilliance with court IQ, dominating Gauteng’s university leagues.",
+      "number_of_leagues": 5
+    },
+    {
+      "team_id": 2002,
+      "image_url": "Netball (USSA)",
+      "team_name": "University of Cape Town (UCT)",
+      "team_description": "UCT’s basketball team is a coastal powerhouse, known for their disciplined defense and transition play.",
+      "number_of_leagues": 5
+    },
+    {
+      "team_id": 30003,
+      "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/University_of_the_Free_State_shield.svg/1200px-University_of_the_Free_State_shield.svg.png",
+      "team_name": "UFS",
+      "team_description": "UFS Kovsie Basketball thrives on teamwork and precision, making deep runs in national championships.",
+      "number_of_leagues": 3
+    },
+    {
+      "team_id": 16,
+      "image_url": "https://example.com/images/braamfontein_blues.png",
+      "team_name": "Braamfontein Blues",
+      "team_description": "The Blues are a streetball-inspired team with flair, competing in Johannesburg’s inner-city leagues.",
+      "number_of_leagues": 1
+    },
+    {
+      "team_id": 20003,
+      "image_url": "https://upload.wikimedia.org/wikipedia/en/f/fc/University_of_Fort_Hare_logo.svg",
+      "team_name": "Fort Hare",
+      "team_description": "Fort Hare Basketball focuses on fundamentals and youth development in the Eastern Cape.",
+      "number_of_leagues": 3
+    },
+    {
+      "team_id": 23230,
+      "image_url": "https://www.govpage.co.za/uploads/2/4/0/5/24052997/walter-sisulu-university_orig.jpg",
+      "team_name": "Walter Sisulu",
+      "team_description": "Walter Sisulu’s basketball team is a rising star, known for their hustle and community engagement.",
+      "number_of_leagues": 3
+    },
+    {
+      "team_id": 21331,
+      "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/14/University_of_Zululand_logo.svg/1200px-University_of_Zululand_logo.svg.png",
+      "team_name": "Zululand",
+      "team_description": "Zululand’s team blends athleticism with traditional playmaking, making waves in KZN leagues.",
+      "number_of_leagues": 3
+    },
+    {
+      "team_id": 22330,
+      "image_url": "https://cdn.freelogovectors.net/wp-content/uploads/2022/03/cput_logo_freelogovectors.net_.png",
+      "team_name": "CPUT",
+      "team_description": "CPUT Basketball is a Western Cape contender, praised for their defensive intensity and teamwork.",
+      "number_of_leagues": 3
+    },
+    {
+      "team_id": 22231,
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/The_Durban_University_of_Technology_new_log.jpg",
+      "team_name": "DUT",
+      "team_description": "DUT’s basketball program is a hub for raw talent, focusing on player progression and competitive spirit.",
+      "number_of_leagues": 3
+    },
+    {
+      "team_id": 20031,
+      "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/49/Tshwane_University_of_Technology_logo.svg/1200px-Tshwane_University_of_Technology_logo.svg.png",
+      "team_name": "TUT",
+      "team_description": "TUT Basketball is a Gauteng staple, known for their physicality and relentless rebounding.",
+      "number_of_leagues": 3
+    },
+    {
+      "team_id": 26231,
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/VUT_logo-TM.png",
+      "team_name": "VUT",
+      "team_description": "VUT’s team emphasizes speed and agility, often outmaneuvering opponents in the Vaal region.",
+      "number_of_leagues": 4
+    },
+    {
+      "team_id": 25231,
+      "image_url": "https://cms.cut.ac.za/Files/Froala/1fe976e3-b12d-49a3-9fca-461f917eadb1.jpg",
+      "team_name": "CUT",
+      "team_description": "CUT’s basketball squad is a Free State favorite, blending skill with unyielding determination.",
+      "number_of_leagues": 3
+    },
+    {
+      "team_id": 21301,
+      "image_url": "https://static.wixstatic.com/media/9ef253_8e2ff0e89754477eac69be92fb74ee6d~mv2.jpeg/v1/fill/w_768,h_768,al_c,q_85,enc_avif,quality_auto/9ef253_8e2ff0e89754477eac69be92fb74ee6d~mv2.jpeg",
+      "team_name": "NWU",
+      "team_description": "NWU Basketball is a tactical juggernaut, consistently challenging for USSA titles.",
+      "number_of_leagues": 3
+    },
+    {
+      "team_id": 22231,
+      "image_url": "https://usaf.ac.za/wp-content/uploads/2023/08/University_of_Limpopo-logo.webp",
+      "team_name": "UL",
+      "team_description": "UL’s basketball team is a Limpopo standout, celebrated for their grassroots development and hustle.",
+      "number_of_leagues": 3
+    },
+    {
+      "team_id": 22230,
+      "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/University_of_Venda_logo.svg/1200px-University_of_Venda_logo.svg.png",
+      "team_name": "Venda",
+      "team_description": "Venda’s team plays with heart and creativity, often surprising opponents with their unorthodox style.",
+      "number_of_leagues": 3
+    },
+    {
+      "team_id": 22031,
+      "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/UKZN_logo.svg/1920px-UKZN_logo.svg.png",
+      "team_name": "UKZN",
+      "team_description": "UKZN Basketball is a coastal force, blending structured plays with individual brilliance.",
+      "number_of_leagues": 3
+    },
+    {
+      "team_id": 1,
+      "image_url": "https://pbs.twimg.com/profile_images/378800000739934443/2e7b8c5f3e4f3b3b3b3b3b3b3b3b3b3b_400x400.jpeg",
+      "team_name": "Braamfontein Blues",
+      "team_description": "A non-profit sports development organization focused on Johannesburg Inner City kids, participating in the Inner City Super League.",
+      "number_of_leagues": 1
+    },
+    {
+      "team_id": 2,
+      "image_url": "https://www.facebook.com/HarborCityPrime/photos/a.101501234567890/101501234567891/",
+      "team_name": "City Prime",
+      "team_description": "A basketball team based in Johannesburg, participating in the Inner City Super League.",
+      "number_of_leagues": 1
+    },
+    {
+      "team_id": 3,
+      "image_url": "https://www.instagram.com/p/CI6xYx1h2xL/",
+      "team_name": "Edenvale Lions Basketball Academy",
+      "team_description": "A basketball academy situated in Edenvale, Johannesburg, grooming the next generation of global professional basketball players.",
+      "number_of_leagues": 1
+    },
+    {
+      "team_id": 4,
+      "image_url": "https://www.facebook.com/mbbbasketball/photos/a.101501234567890/101501234567891/",
+      "team_name": "MBB",
+      "team_description": "Made By Ball (MBB) is a South African basketball team based in Johannesburg, participating in the Basketball National League and Inner City Super League.",
+      "number_of_leagues": 2
+    },
+    {
+      "team_id": 5,
+      "image_url": "https://www.instagram.com/p/CI6xYx1h2xL/",
+      "team_name": "Midrand Heat",
+      "team_description": "A South African basketball team participating in the Johannesburg Basketball League.",
+      "number_of_leagues": 1
+    },
+    {
+      "team_id": 6,
+      "image_url": "https://www.facebook.com/jozinuggets/photos/a.101501234567890/101501234567891/",
+      "team_name": "Jozi Nuggets",
+      "team_description": "A basketball club created for the love of life and sport, based in Johannesburg.",
+      "number_of_leagues": 1
+    },
+    {
+      "team_id": 7,
+      "image_url": "https://www.facebook.com/p/Pythons-Basketball-Club-61557913419852/",
+      "team_name": "Pythons",
+      "team_description": "A basketball club participating in local leagues.",
+      "number_of_leagues": 1
+    },
+    {
+      "team_id": 8,
+      "image_url": "https://www.instagram.com/randburgrhinos/",
+      "team_name": "Randburg Rhinos",
+      "team_description": "A basketball club based in Randburg, participating in the Johannesburg Basketball Association.",
+      "number_of_leagues": 1
+    },
+    {
+      "team_id": 9,
+      "image_url": "https://www.facebook.com/rising.suns.basketball/photos/a.101501234567890/101501234567891/",
+      "team_name": "Rising Suns",
+      "team_description": "A basketball team participating in local leagues.",
+      "number_of_leagues": 1
+    },
+    {
+      "team_id": 10,
+      "image_url": "https://www.instagram.com/tut_basketball/",
+      "team_name": "Tshwane University of Technology",
+      "team_description": "The basketball team of Tshwane University of Technology, participating in university leagues.",
+      "number_of_leagues": 1
+    },
+    {
+      "team_id": 11,
+      "image_url": "https://www.instagram.com/witsbasketball/",
+      "team_name": "Wits University",
+      "team_description": "The basketball team of the University of the Witwatersrand, participating in university leagues.",
+      "number_of_leagues": 1
+    },
+    {
+      "team_id": 12,
+      "image_url": "https://www.facebook.com/alexwolvesbasketball/photos/a.101501234567890/101501234567891/",
+      "team_name": "Alex Wolves",
+      "team_description": "A basketball team based in Alexandra, participating in local leagues.",
+      "number_of_leagues": 1
+    },
+    {
+      "team_id": 13,
+      "image_url": "https://www.facebook.com/goodfellasbasketball/photos/a.101501234567890/101501234567891/",
+      "team_name": "Goodfellas",
+      "team_description": "A basketball team participating in local leagues.",
+      "number_of_leagues": 1
+    },
+    {
+      "team_id": 14,
+      "image_url": "https://www.instagram.com/iie_msa_basketball/",
+      "team_name": "IIE MSA",
+      "team_description": "The basketball team of IIE MSA, participating in university leagues.",
+      "number_of_leagues": 1
+    },
+    {
+      "team_id": 15,
+      "image_url": "https://www.facebook.com/imperialtaitansbasketball/photos/a.101501234567890/101501234567891/",
+      "team_name": "Imperial Taitans",
+      "team_description": "A basketball team participating in local leagues.",
+      "number_of_leagues": 1
+    },
+    {
+      "team_id": 16,
+      "image_url": "https://www.facebook.com/younglegendsbasketball/photos/a.101501234567890/101501234567891/",
+      "team_name": "Young Legends",
+      "team_description": "A basketball team participating in local leagues.",
+      "number_of_leagues": 1
+    },
+    {
+      "team_id": 17,
+      "image_url": "https://www.facebook.com/skywalkersbasketball/photos/a.101501234567890/101501234567891/",
+      "team_name": "Skywalkers",
+      "team_description": "A basketball team participating in local leagues.",
+      "number_of_leagues": 1
+    },
+    {
+      "team_id": 18,
+      "image_url": "https://www.facebook.com/spartansbasketball/photos/a.101501234567890/101501234567891/",
+      "team_name": "Spartans",
+      "team_description": "A basketball team participating in local leagues.",
+      "number_of_leagues": 1
+    },
+    {
+      "team_id": 19,
+      "image_url": "https://www.facebook.com/jozistarsbasketball/photos/a.101501234567890/101501234567891/",
+      "team_name": "Jozi Stars",
+      "team_description": "A basketball team participating in local leagues.",
+      "number_of_leagues": 1
+    },
+    {
+      "team_id": 20,
+      "image_url": "https://www.facebook.com/sunfirebasketball/photos/a.101501234567890/101501234567891/",
+      "team_name": "Sunfire",
+      "team_description": "A basketball team participating in local leagues.",
+      "number_of_leagues": 1
+    },
+    {
+      "team_id": 21,
+      "image_url": "https://www.facebook.com/ujbasketball/photos/a.101501234567890/101501234567891/",
+      "team_name": "University of Johannesburg 2nd team",
+      "team_description": "The second basketball team of the University of Johannesburg, participating in university leagues.",
+      "number_of_leagues": 1
+    },
+    {
+      "team_id": 22,
+      "image_url": "https://www.instagram.com/witsbasketball/",
+      "team_name": "Wits Young Bucks",
+      "team_description": "The second basketball team of Wits University, participating in university leagues.",
+      "number_of_leagues": 1
+    },
+    {
+      "team_id": 23,
+      "image_url": "https://www.facebook.com/celticsfinestbasketball/photos/a.101501234567890/101501234567891/",
+      "team_name": "Celtics Finest",
+      "team_description": "A basketball team participating in local leagues.",
+      "number_of_leagues": 1
+    },
+    {
+      "team_id": 24,
+      "image_url": "https://www.facebook.com/alexbcbasketball/photos/a.101501234567890/101501234567891/",
+      "team_name": "AlexBC",
+      "team_description": "A basketball team based in Alexandra, participating in local leagues.",
+      "number_of_leagues": 1
+    }
+  ],
+  "cricket_teams": [
+    {
+      "team_id": 10003,
+      "image_url": "https://safagauteng.org.za/wp-content/uploads/2023/03/University-of-Johannesburg-FC_logo.png",
+      "team_name": "UJ FC",
+      "team_description": "UJ Cricket is a dominant force in USSA tournaments, known for their aggressive batting and disciplined bowling.",
+      "number_of_leagues": 3
+    },
+    {
+      "team_id": 3003,
+      "image_url": "cricket ussa",
+      "team_name": "Wits University",
+      "team_description": "Wits Cricket excels in tactical gameplay, with a strong focus on spin bowling and middle-order stability.",
+      "number_of_leagues": 5
+    },
+    {
+      "team_id": 3003,
+      "image_url": "maties_cricket.png",
+      "team_name": "Stellenbosch University (Maties)",
+      "team_description": "Maties Cricket is a breeding ground for provincial players, renowned for their all-rounder depth.",
+      "number_of_leagues": 5
+    },
+    {
+      "team_id": 30003,
+      "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/University_of_the_Free_State_shield.svg/1200px-University_of_the_Free_State_shield.svg.png",
+      "team_name": "UFS",
+      "team_description": "UFS Cricket thrives in Bloemfontein’s conditions, specializing in pace bowling and explosive opening batsmen.",
+      "number_of_leagues": 3
+    },
+    {
+      "team_id": 20003,
+      "image_url": "https://upload.wikimedia.org/wikipedia/en/f/fc/University_of_Fort_Hare_logo.svg",
+      "team_name": "Fort Hare",
+      "team_description": "Fort Hare Cricket focuses on grassroots talent, nurturing future stars for Eastern Cape cricket.",
+      "number_of_leagues": 3
+    },
+    {
+      "team_id": 23230,
+      "image_url": "https://www.govpage.co.za/uploads/2/4/0/5/24052997/walter-sisulu-university_orig.jpg",
+      "team_name": "Walter Sisulu",
+      "team_description": "Walter Sisulu’s cricket team is a rising program, emphasizing player development and competitive spirit.",
+      "number_of_leagues": 3
+    },
+    {
+      "team_id": 21331,
+      "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/14/University_of_Zululand_logo.svg/1200px-University_of_Zululand_logo.svg.png",
+      "team_name": "Zululand",
+      "team_description": "Zululand Cricket is a KZN gem, known for their fearless batting and vibrant team culture.",
+      "number_of_leagues": 3
+    },
+    {
+      "team_id": 22330,
+      "image_url": "https://cdn.freelogovectors.net/wp-content/uploads/2022/03/cput_logo_freelogovectors.net_.png",
+      "team_name": "CPUT",
+      "team_description": "CPUT Cricket is a Western Cape contender, praised for their disciplined bowling attack.",
+      "number_of_leagues": 3
+    },
+    {
+      "team_id": 22231,
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/The_Durban_University_of_Technology_new_log.jpg",
+      "team_name": "DUT",
+      "team_description": "DUT Cricket blends technical skill with tenacity, often surprising stronger opponents.",
+      "number_of_leagues": 3
+    },
+    {
+      "team_id": 20031,
+      "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/49/Tshwane_University_of_Technology_logo.svg/1200px-Tshwane_University_of_Technology_logo.svg.png",
+      "team_name": "TUT",
+      "team_description": "TUT Cricket is a Gauteng staple, known for their aggressive fielding and tactical acumen.",
+      "number_of_leagues": 3
+    },
+    {
+      "team_id": 26231,
+      "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/VUT_logo-TM.png",
+      "team_name": "VUT",
+      "team_description": "VUT Cricket focuses on all-round development, with a strong emphasis on youth progression.",
+      "number_of_leagues": 4
+    },
+    {
+      "team_id": 25231,
+      "image_url": "https://cms.cut.ac.za/Files/Froala/1fe976e3-b12d-49a3-9fca-461f917eadb1.jpg",
+      "team_name": "CUT",
+      "team_description": "CUT Cricket is a Free State favorite, celebrated for their sportsmanship and competitive drive.",
+      "number_of_leagues": 3
+    }
+  ]
+}

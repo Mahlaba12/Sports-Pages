@@ -1,0 +1,133 @@
+
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #000000;
+  color: #333;
+}
+
+.button-container {
+  display: flex;
+  justify-content: flex-end; /* Align buttons to the right */
+  gap: 6px;                 /* Space between buttons */
+  padding: 7px 15px;        /* Inner spacing around buttons */
+  background-color: #f9f9f9; /* Optional: light background */
+}
+
+.button-container button {
+  padding: 10px 20px;
+  font-size: 1rem;
+  font-weight: 500;
+  background-color:  #ff6b00;
+  color: #ffffff;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  transition: background-color 0.3s ease, transform 0.2s ease;
+}
+
+.button-container button:hover {
+  background-color:  #ff6b00;
+  transform: translateY(-2px);
+}
+
+
+header {
+  background-image: linear-gradient(rgba(255, 111, 0, 0.5), rgba(255, 94, 0, 0.5)), url(nav.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding: 1rem 2rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  height: 60px;
+}
+
+nav a {
+  margin-left: 1.5rem;
+  color: #fff;
+  text-decoration: none;
+  font-weight: 500;
+}
+nav a:hover{
+font-size: large;
+text-decoration: underline;
+}
+
+header h1 {
+  margin: 0;
+  font-size: 1.8rem;
+}
+
+.card-container {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 40px 20px;
+}
+
+.section-title {
+  font-size: 2.5em;
+  text-align: center;
+  margin-bottom: 10px;
+  color: #ff6b00;
+}
+
+.card-container p {
+  text-align: center;
+  font-size: 1.1em;
+  max-width: 800px;
+  margin: 0 auto 40px;
+  line-height: 1.6;
+}
+
+.card-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(250px, 1fr));
+  gap: 25px;
+}
+
+.card {
+  background-color: #fff;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+  overflow: hidden;
+  transition: transform 0.3s ease;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+}
+
+.card img {
+  width: 100%;
+  height: 170px;
+  object-fit: cover;
+}
+
+.card-title {
+  padding: 15px;
+  font-size: 1.1em;
+  text-align: center;
+  background-color: #f1f1f1;
+}
+
+.card a {
+  text-decoration: none;
+  color: #ff6b00;
+  display: block;
+}
+
+.card a:hover {
+  color: #ff6b00;
+  text-decoration: underline;
+}
+
+footer {
+  text-align: center;
+  padding: 20px 0;
+  margin-top: 40px;
+  background-color: #00274d;
+  color: #fff;
+  font-size: 0.9em;
+}

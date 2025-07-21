@@ -1,0 +1,224 @@
+{
+    "netball_fixtures": [
+    {
+      "league_id": 2008,
+      "home_team_id": 22031,
+      "away_team_id": 10000,
+      "home_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/UKZN_logo.svg/1920px-UKZN_logo.svg.png",
+      "away_logo": "https://safagauteng.org.za/wp-content/uploads/2023/03/University-of-Johannesburg-FC_logo.png",
+      "date": "2025-06-11",
+      "time": "14:00",
+      "venue": "UL Netball Arena",
+      "referee": "Ref. M. Dlamini"
+    },
+    {
+      "league_id": 2008,
+      "home_team_id": 10000,
+      "away_team_id": 22230,
+      "home_logo": "https://safagauteng.org.za/wp-content/uploads/2023/03/University-of-Johannesburg-FC_logo.png",
+      "away_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/University_of_Venda_logo.svg/1200px-University_of_Venda_logo.svg.png",
+      "date": "2025-06-08",
+      "time": "18:00",
+      "venue": "UJ Netball Court",
+      "referee": "Ref. M. Dlamini"
+    },
+    {
+      "league_id": 2008,
+      "home_team_id": 22231,
+      "away_team_id": 10000,
+      "home_logo": "https://usaf.ac.za/wp-content/uploads/2023/08/University_of_Limpopo-logo.webp",
+      "away_logo": "https://safagauteng.org.za/wp-content/uploads/2023/03/University-of-Johannesburg-FC_logo.png",
+      "date": "2025-06-30",
+      "time": "16:00",
+      "venue": "UKZN Netball Grounds",
+      "referee": "Ref. P. Sithole"
+    },
+    {
+      "league_id": 2008,
+      "home_team_id": 21301,
+      "away_team_id": 30001,
+      "home_logo": "https://static.wixstatic.com/media/9ef253_8e2ff0e89754477eac69be92fb74ee6d~mv2.jpeg",
+      "away_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/University_of_the_Free_State_shield.svg/1200px-University_of_the_Free_State_shield.svg.png",
+      "date": "2025-06-29",
+      "time": "17:00",
+      "venue": "UFS Indoor Stadium",
+      "referee": "Ref. P. Sithole"
+    },
+    {
+      "league_id": 2008,
+      "home_team_id": 22231,
+      "away_team_id": 30001,
+      "home_logo": "https://usaf.ac.za/wp-content/uploads/2023/08/University_of_Limpopo-logo.webp",
+      "away_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/University_of_the_Free_State_shield.svg/1200px-University_of_the_Free_State_shield.svg.png",
+      "date": "2025-07-01",
+      "time": "17:00",
+      "venue": "NWU Netball Arena",
+      "referee": "Ref. P. Sithole"
+    },
+    {
+      "league_id": 2009,
+      "home_team_id": 22230,
+      "away_team_id": 21301,
+      "home_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/University_of_Venda_logo.svg/1200px-University_of_Venda_logo.svg.png",
+      "away_logo": "https://static.wixstatic.com/media/9ef253_8e2ff0e89754477eac69be92fb74ee6d~mv2.jpeg",
+      "date": "2025-06-28",
+      "time": "14:00",
+      "venue": "NWU Netball Arena",
+      "referee": "Ref. T. Mahlangu"
+    },
+    {
+      "league_id": 2009,
+      "home_team_id": 10000,
+      "away_team_id": 21301,
+      "home_logo": "https://safagauteng.org.za/wp-content/uploads/2023/03/University-of-Johannesburg-FC_logo.png",
+      "away_logo": "https://static.wixstatic.com/media/9ef253_8e2ff0e89754477eac69be92fb74ee6d~mv2.jpeg",
+      "date": "2025-06-30",
+      "time": "15:00",
+      "venue": "UFS Indoor Stadium",
+      "referee": "Ref. P. Sithole"
+    },
+    {
+      "league_id": 2009,
+      "home_team_id": 22230,
+      "away_team_id": 22231,
+      "home_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/University_of_Venda_logo.svg/1200px-University_of_Venda_logo.svg.png",
+      "away_logo": "https://usaf.ac.za/wp-content/uploads/2023/08/University_of_Limpopo-logo.webp",
+      "date": "2025-06-17",
+      "time": "15:00",
+      "venue": "UL Netball Arena",
+      "referee": "Ref. Z. Khumalo"
+    },
+    {
+      "league_id": 2009,
+      "home_team_id": 30001,
+      "away_team_id": 21301,
+      "home_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/University_of_the_Free_State_shield.svg/1200px-University_of_the_Free_State_shield.svg.png",
+      "away_logo": "https://static.wixstatic.com/media/9ef253_8e2ff0e89754477eac69be92fb74ee6d~mv2.jpeg",
+      "date": "2025-07-01",
+      "time": "17:00",
+      "venue": "UJ Netball Court",
+      "referee": "Ref. Z. Khumalo"
+    },
+    {
+      "league_id": 2009,
+      "home_team_id": 21301,
+      "away_team_id": 22230,
+      "home_logo": "https://static.wixstatic.com/media/9ef253_8e2ff0e89754477eac69be92fb74ee6d~mv2.jpeg",
+      "away_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/University_of_Venda_logo.svg/1200px-University_of_Venda_logo.svg.png",
+      "date": "2025-06-04",
+      "time": "17:00",
+      "venue": "NWU Netball Arena",
+      "referee": "Ref. M. Dlamini"
+    },
+    {
+      "league_id": 3005,
+      "home_team_id": 10000,
+      "away_team_id": 22031,
+      "home_logo": "https://safagauteng.org.za/wp-content/uploads/2023/03/University-of-Johannesburg-FC_logo.png",
+      "away_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/UKZN_logo.svg/1920px-UKZN_logo.svg.png",
+      "date": "2025-06-22",
+      "time": "15:00",
+      "venue": "UJ Netball Court",
+      "referee": "Ref. T. Mahlangu"
+    },
+    {
+      "league_id": 3005,
+      "home_team_id": 22231,
+      "away_team_id": 30001,
+      "home_logo": "https://usaf.ac.za/wp-content/uploads/2023/08/University_of_Limpopo-logo.webp",
+      "away_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/University_of_the_Free_State_shield.svg/1200px-University_of_the_Free_State_shield.svg.png",
+      "date": "2025-06-11",
+      "time": "13:00",
+      "venue": "UL Netball Arena",
+      "referee": "Ref. P. Sithole"
+    },
+    {
+      "league_id": 3005,
+      "home_team_id": 21301,
+      "away_team_id": 10000,
+      "home_logo": "https://static.wixstatic.com/media/9ef253_8e2ff0e89754477eac69be92fb74ee6d~mv2.jpeg",
+      "away_logo": "https://safagauteng.org.za/wp-content/uploads/2023/03/University-of-Johannesburg-FC_logo.png",
+      "date": "2025-06-24",
+      "time": "18:00",
+      "venue": "UKZN Netball Grounds",
+      "referee": "Ref. M. Dlamini"
+    },
+    {
+      "league_id": 3005,
+      "home_team_id": 22230,
+      "away_team_id": 22231,
+      "home_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/University_of_Venda_logo.svg/1200px-University_of_Venda_logo.svg.png",
+      "away_logo": "https://usaf.ac.za/wp-content/uploads/2023/08/University_of_Limpopo-logo.webp",
+      "date": "2025-06-27",
+      "time": "14:00",
+      "venue": "UFS Indoor Stadium",
+      "referee": "Ref. P. Sithole"
+    },
+    {
+      "league_id": 3005,
+      "home_team_id": 21301,
+      "away_team_id": 22231,
+      "home_logo": "https://static.wixstatic.com/media/9ef253_8e2ff0e89754477eac69be92fb74ee6d~mv2.jpeg",
+      "away_logo": "https://usaf.ac.za/wp-content/uploads/2023/08/University_of_Limpopo-logo.webp",
+      "date": "2025-06-15",
+      "time": "17:00",
+      "venue": "Venda Netball Grounds",
+      "referee": "Ref. M. Dlamini"
+    },
+    {
+      "league_id": 3006,
+      "home_team_id": 21301,
+      "away_team_id": 22230,
+      "home_logo": "https://static.wixstatic.com/media/9ef253_8e2ff0e89754477eac69be92fb74ee6d~mv2.jpeg",
+      "away_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/University_of_Venda_logo.svg/1200px-University_of_Venda_logo.svg.png",
+      "date": "2025-06-08",
+      "time": "14:00",
+      "venue": "UFS Indoor Stadium",
+      "referee": "Ref. P. Sithole"
+    },
+    {
+      "league_id": 3006,
+      "home_team_id": 22230,
+      "away_team_id": 30001,
+      "home_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/University_of_Venda_logo.svg/1200px-University_of_Venda_logo.svg.png",
+      "away_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/University_of_the_Free_State_shield.svg/1200px-University_of_the_Free_State_shield.svg.png",
+      "date": "2025-06-18",
+      "time": "17:00",
+      "venue": "UJ Netball Court",
+      "referee": "Ref. P. Sithole"
+    },
+    {
+      "league_id": 3006,
+      "home_team_id": 10000,
+      "away_team_id": 22231,
+      "home_logo": "https://safagauteng.org.za/wp-content/uploads/2023/03/University-of-Johannesburg-FC_logo.png",
+      "away_logo": "https://usaf.ac.za/wp-content/uploads/2023/08/University_of_Limpopo-logo.webp",
+      "date": "2025-06-28",
+      "time": "13:00",
+      "venue": "UFS Indoor Stadium",
+      "referee": "Ref. T. Mahlangu"
+    },
+    {
+      "league_id": 3006,
+      "home_team_id": 22231,
+      "away_team_id": 10000,
+      "home_logo": "https://usaf.ac.za/wp-content/uploads/2023/08/University_of_Limpopo-logo.webp",
+      "away_logo": "https://safagauteng.org.za/wp-content/uploads/2023/03/University-of-Johannesburg-FC_logo.png",
+      "date": "2025-06-24",
+      "time": "15:00",
+      "venue": "UL Netball Arena",
+      "referee": "Ref. P. Sithole"
+    },
+    {
+      "league_id": 3006,
+      "home_team_id": 21301,
+      "away_team_id": 30001,
+      "home_logo": "https://static.wixstatic.com/media/9ef253_8e2ff0e89754477eac69be92fb74ee6d~mv2.jpeg",
+      "away_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/University_of_the_Free_State_shield.svg/1200px-University_of_the_Free_State_shield.svg.png",
+      "date": "2025-06-23",
+      "time": "18:00",
+      "venue": "UJ Netball Court",
+      "referee": "Ref. T. Mahlangu"
+    }
+  ]
+ }

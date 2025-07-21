@@ -1,0 +1,623 @@
+{
+  "football_standings": [
+    {
+      "league_id": 2001,
+      "team": "TUT",
+      "logo": "https://upload.wikimedia.org/tut_logo.png",
+      "played": 10,
+      "wins": 7,
+      "draws": 2,
+      "losses": 1,
+      "goals_for": 18,
+      "goals_against": 7,
+      "goal_difference": 11,
+      "points": 23
+    },
+    {
+      "league_id": 2001,
+      "team": "UJ FC",
+      "logo": "https://upload.wikimedia.org/uj_logo.png",
+      "played": 10,
+      "wins": 6,
+      "draws": 3,
+      "losses": 1,
+      "goals_for": 15,
+      "goals_against": 8,
+      "goal_difference": 7,
+      "points": 21
+    },
+    {
+      "league_id": 2001,
+      "team": "JDR Stars",
+      "logo": "https://upload.wikimedia.org/jdr_logo.png",
+      "played": 10,
+      "wins": 5,
+      "draws": 2,
+      "losses": 3,
+      "goals_for": 13,
+      "goals_against": 10,
+      "goal_difference": 3,
+      "points": 17
+    },
+    {
+      "league_id": 2001,
+      "team": "Cape Town Spurs",
+      "logo": "https://upload.wikimedia.org/ctspurs_logo.png",
+      "played": 10,
+      "wins": 4,
+      "draws": 3,
+      "losses": 3,
+      "goals_for": 11,
+      "goals_against": 9,
+      "goal_difference": 2,
+      "points": 15
+    },
+    {
+      "league_id": 2001,
+      "team": "Baroka FC",
+      "logo": "https://upload.wikimedia.org/baroka_logo.png",
+      "played": 10,
+      "wins": 3,
+      "draws": 2,
+      "losses": 5,
+      "goals_for": 9,
+      "goals_against": 12,
+      "goal_difference": -3,
+      "points": 11
+    },
+    {
+      "league_id": 2002,
+      "team": "UL",
+      "logo": "https://upload.wikimedia.org/ul_logo.png",
+      "played": 8,
+      "wins": 6,
+      "draws": 1,
+      "losses": 1,
+      "goals_for": 12,
+      "goals_against": 5,
+      "goal_difference": 7,
+      "points": 19
+    },
+    {
+      "league_id": 2002,
+      "team": "Maties",
+      "logo": "https://upload.wikimedia.org/maties_logo.png",
+      "played": 8,
+      "wins": 5,
+      "draws": 2,
+      "losses": 1,
+      "goals_for": 11,
+      "goals_against": 6,
+      "goal_difference": 5,
+      "points": 17
+    },
+    {
+      "league_id": 2002,
+      "team": "UKZN",
+      "logo": "https://upload.wikimedia.org/ukzn_logo.png",
+      "played": 8,
+      "wins": 5,
+      "draws": 1,
+      "losses": 2,
+      "goals_for": 13,
+      "goals_against": 8,
+      "goal_difference": 5,
+      "points": 16
+    },
+    {
+      "league_id": 2002,
+      "team": "UWC",
+      "logo": "https://upload.wikimedia.org/uwc_logo.png",
+      "played": 8,
+      "wins": 4,
+      "draws": 2,
+      "losses": 2,
+      "goals_for": 10,
+      "goals_against": 7,
+      "goal_difference": 3,
+      "points": 14
+    },
+    {
+      "league_id": 2002,
+      "team": "VUT",
+      "logo": "https://upload.wikimedia.org/vut_logo.png",
+      "played": 8,
+      "wins": 3,
+      "draws": 2,
+      "losses": 3,
+      "goals_for": 9,
+      "goals_against": 9,
+      "goal_difference": 0,
+      "points": 11
+    },
+    {
+      "league_id": 2003,
+      "team": "UJ FC",
+      "logo": "https://upload.wikimedia.org/uj_logo.png",
+      "played": 6,
+      "wins": 5,
+      "draws": 0,
+      "losses": 1,
+      "goals_for": 14,
+      "goals_against": 5,
+      "goal_difference": 9,
+      "points": 15
+    },
+    {
+      "league_id": 2003,
+      "team": "Tuks",
+      "logo": "https://upload.wikimedia.org/tuks_logo.png",
+      "played": 6,
+      "wins": 4,
+      "draws": 1,
+      "losses": 1,
+      "goals_for": 12,
+      "goals_against": 6,
+      "goal_difference": 6,
+      "points": 13
+    },
+    {
+      "league_id": 2003,
+      "team": "NWU",
+      "logo": "https://upload.wikimedia.org/nwu_logo.png",
+      "played": 6,
+      "wins": 3,
+      "draws": 2,
+      "losses": 1,
+      "goals_for": 11,
+      "goals_against": 7,
+      "goal_difference": 4,
+      "points": 11
+    },
+    {
+      "league_id": 2003,
+      "team": "CUT",
+      "logo": "https://upload.wikimedia.org/cut_logo.png",
+      "played": 6,
+      "wins": 2,
+      "draws": 2,
+      "losses": 2,
+      "goals_for": 8,
+      "goals_against": 9,
+      "goal_difference": -1,
+      "points": 8
+    },
+    {
+      "league_id": 2003,
+      "team": "Wits",
+      "logo": "https://upload.wikimedia.org/wits_logo.png",
+      "played": 6,
+      "wins": 1,
+      "draws": 1,
+      "losses": 4,
+      "goals_for": 6,
+      "goals_against": 11,
+      "goal_difference": -5,
+      "points": 4
+    },
+    {
+      "league_id": 2004,
+      "team": "UJ Cricket",
+      "logo": "https://upload.wikimedia.org/uj_cricket_logo.png",
+      "played": 5,
+      "wins": 4,
+      "draws": 0,
+      "losses": 1,
+      "goals_for": 0,
+      "goals_against": 0,
+      "goal_difference": 0,
+      "points": 12
+    },
+    {
+      "league_id": 2004,
+      "team": "Tuks Cricket",
+      "logo": "https://upload.wikimedia.org/tuks_cricket_logo.png",
+      "played": 5,
+      "wins": 3,
+      "draws": 1,
+      "losses": 1,
+      "goals_for": 0,
+      "goals_against": 0,
+      "goal_difference": 0,
+      "points": 10
+    },
+    {
+      "league_id": 2004,
+      "team": "NWU Cricket",
+      "logo": "https://upload.wikimedia.org/nwu_cricket_logo.png",
+      "played": 5,
+      "wins": 2,
+      "draws": 1,
+      "losses": 2,
+      "goals_for": 0,
+      "goals_against": 0,
+      "goal_difference": 0,
+      "points": 7
+    },
+    {
+      "league_id": 2004,
+      "team": "UWC Cricket",
+      "logo": "https://upload.wikimedia.org/uwc_cricket_logo.png",
+      "played": 5,
+      "wins": 1,
+      "draws": 1,
+      "losses": 3,
+      "goals_for": 0,
+      "goals_against": 0,
+      "goal_difference": 0,
+      "points": 4
+    },
+    {
+      "league_id": 2004,
+      "team": "VUT Cricket",
+      "logo": "https://upload.wikimedia.org/vut_cricket_logo.png",
+      "played": 5,
+      "wins": 0,
+      "draws": 0,
+      "losses": 5,
+      "goals_for": 0,
+      "goals_against": 0,
+      "goal_difference": 0,
+      "points": 0
+    }
+  ],
+
+    "netball_standings": [
+    {
+      "league_id": 2008,
+      "team_id": 22031,
+      "played": 5,
+      "won": 4,
+      "lost": 2,
+      "points": 13
+    },
+    {
+      "league_id": 2008,
+      "team_id": 10000,
+      "played": 5,
+      "won": 0,
+      "lost": 2,
+      "points": 6
+    },
+    {
+      "league_id": 2008,
+      "team_id": 22231,
+      "played": 5,
+      "won": 1,
+      "lost": 2,
+      "points": 15
+    },
+    {
+      "league_id": 2008,
+      "team_id": 21301,
+      "played": 5,
+      "won": 5,
+      "lost": 4,
+      "points": 10
+    },
+    {
+      "league_id": 2008,
+      "team_id": 22231,
+      "played": 5,
+      "won": 3,
+      "lost": 0,
+      "points": 13
+    },
+    {
+      "league_id": 2009,
+      "team_id": 22230,
+      "played": 5,
+      "won": 2,
+      "lost": 1,
+      "points": 10
+    },
+    {
+      "league_id": 2009,
+      "team_id": 10000,
+      "played": 5,
+      "won": 5,
+      "lost": 5,
+      "points": 7
+    },
+    {
+      "league_id": 2009,
+      "team_id": 22230,
+      "played": 5,
+      "won": 1,
+      "lost": 1,
+      "points": 6
+    },
+    {
+      "league_id": 2009,
+      "team_id": 30001,
+      "played": 5,
+      "won": 3,
+      "lost": 1,
+      "points": 9
+    },
+    {
+      "league_id": 2009,
+      "team_id": 21301,
+      "played": 5,
+      "won": 5,
+      "lost": 4,
+      "points": 9
+    },
+    {
+      "league_id": 3005,
+      "team_id": 10000,
+      "played": 5,
+      "won": 2,
+      "lost": 3,
+      "points": 0
+    },
+    {
+      "league_id": 3005,
+      "team_id": 22231,
+      "played": 5,
+      "won": 5,
+      "lost": 5,
+      "points": 12
+    },
+    {
+      "league_id": 3005,
+      "team_id": 21301,
+      "played": 5,
+      "won": 5,
+      "lost": 1,
+      "points": 8
+    },
+    {
+      "league_id": 3005,
+      "team_id": 22230,
+      "played": 5,
+      "won": 4,
+      "lost": 5,
+      "points": 2
+    },
+    {
+      "league_id": 3005,
+      "team_id": 21301,
+      "played": 5,
+      "won": 4,
+      "lost": 1,
+      "points": 3
+    },
+    {
+      "league_id": 3006,
+      "team_id": 21301,
+      "played": 5,
+      "won": 4,
+      "lost": 2,
+      "points": 13
+    },
+    {
+      "league_id": 3006,
+      "team_id": 22230,
+      "played": 5,
+      "won": 5,
+      "lost": 0,
+      "points": 4
+    },
+    {
+      "league_id": 3006,
+      "team_id": 10000,
+      "played": 5,
+      "won": 0,
+      "lost": 3,
+      "points": 7
+    },
+    {
+      "league_id": 3006,
+      "team_id": 22231,
+      "played": 5,
+      "won": 3,
+      "lost": 1,
+      "points": 1
+    },
+    {
+      "league_id": 3006,
+      "team_id": 21301,
+      "played": 5,
+      "won": 0,
+      "lost": 5,
+      "points": 9
+    }
+  ],
+
+    "rugby_standings": [
+        {
+            "team_id": 10001,
+            "team_name": "UJ FC",
+            "played": 10,
+            "wins": 5,
+            "draws": 2,
+            "losses": 2,
+            "points": 20
+        },
+        {
+            "team_id": 3003,
+            "team_name": "Stellenbosch University (Maties)",
+            "played": 10,
+            "wins": 3,
+            "draws": 2,
+            "losses": 1,
+            "points": 27
+        },
+        {
+            "team_id": 3003,
+            "team_name": "Wits University",
+            "played": 10,
+            "wins": 7,
+            "draws": 2,
+            "losses": 4,
+            "points": 20
+        },
+        {
+            "team_id": 30002,
+            "team_name": "UFS",
+            "played": 10,
+            "wins": 3,
+            "draws": 2,
+            "losses": 4,
+            "points": 22
+        },
+        {
+            "team_id": 20003,
+            "team_name": "Fort Hare",
+            "played": 10,
+            "wins": 3,
+            "draws": 1,
+            "losses": 1,
+            "points": 28
+        },
+        {
+            "team_id": 23230,
+            "team_name": "Walter Sisulu",
+            "played": 10,
+            "wins": 4,
+            "draws": 0,
+            "losses": 5,
+            "points": 24
+        },
+        {
+            "team_id": 21331,
+            "team_name": "Zululand",
+            "played": 10,
+            "wins": 6,
+            "draws": 2,
+            "losses": 5,
+            "points": 11
+        },
+        {
+            "team_id": 21301,
+            "team_name": "NWU",
+            "played": 10,
+            "wins": 4,
+            "draws": 0,
+            "losses": 4,
+            "points": 20
+        },
+        {
+            "team_id": 22231,
+            "team_name": "UL",
+            "played": 10,
+            "wins": 5,
+            "draws": 0,
+            "losses": 3,
+            "points": 23
+        },
+        {
+            "team_id": 22230,
+            "team_name": "Venda",
+            "played": 10,
+            "wins": 3,
+            "draws": 0,
+            "losses": 4,
+            "points": 28
+        },
+        {
+            "team_id": 22031,
+            "team_name": "UKZN",
+            "played": 10,
+            "wins": 6,
+            "draws": 1,
+            "losses": 1,
+            "points": 14
+        },
+        {
+            "team_id": 22330,
+            "team_name": "CPUT",
+            "played": 10,
+            "wins": 4,
+            "draws": 0,
+            "losses": 0,
+            "points": 26
+        },
+        {
+            "team_id": 22232,
+            "team_name": "DUT",
+            "played": 10,
+            "wins": 6,
+            "draws": 0,
+            "losses": 1,
+            "points": 25
+        },
+        {
+            "team_id": 20031,
+            "team_name": "TUT",
+            "played": 10,
+            "wins": 8,
+            "draws": 0,
+            "losses": 0,
+            "points": 26
+        },
+        {
+            "team_id": 26231,
+            "team_name": "VUT",
+            "played": 10,
+            "wins": 9,
+            "draws": 0,
+            "losses": 1,
+            "points": 12
+        },
+        {
+            "team_id": 25231,
+            "team_name": "CUT",
+            "played": 10,
+            "wins": 9,
+            "draws": 2,
+            "losses": 2,
+            "points": 10
+        },
+        {
+            "team_id": 20002,
+            "team_name": "Fort Hare B",
+            "played": 10,
+            "wins": 3,
+            "draws": 2,
+            "losses": 2,
+            "points": 11
+        }
+    ],
+
+"basketball_standings": [
+    {
+      "team_id": 10002,
+      "position": 1,
+      "wins": 10,
+      "losses": 2,
+      "draws": 1,
+      "points": 31
+    },
+    {
+      "team_id": 3003,
+      "position": 2,
+      "wins": 9,
+      "losses": 3,
+      "draws": 1,
+      "points": 28
+    },
+    {
+      "team_id": 2002,
+      "position": 3,
+      "wins": 7,
+      "losses": 5,
+      "draws": 1,
+      "points": 22
+    }
+  ],
+
+  "cricket_standings": [
+    { "team_id": 10003, "position": 1, "points": 24, "played": 8, "wins": 8, "losses": 0 },
+    { "team_id": 3003, "position": 2, "points": 21, "played": 8, "wins": 7, "losses": 1 },
+    { "team_id": 3004, "position": 3, "points": 18, "played": 8, "wins": 6, "losses": 2 },
+    { "team_id": 30003, "position": 4, "points": 15, "played": 8, "wins": 5, "losses": 3 },
+    { "team_id": 20003, "position": 5, "points": 12, "played": 8, "wins": 4, "losses": 4 },
+    { "team_id": 23230, "position": 6, "points": 9, "played": 8, "wins": 3, "losses": 5 },
+    { "team_id": 21331, "position": 7, "points": 6, "played": 8, "wins": 2, "losses": 6 },
+    { "team_id": 22330, "position": 8, "points": 3, "played": 8, "wins": 1, "losses": 7 },
+    { "team_id": 22231, "position": 9, "points": 1, "played": 8, "wins": 0, "losses": 8 },
+    { "team_id": 20031, "position": 10, "points": 0, "played": 0, "wins": 0, "losses": 0 }
+  ]
+}

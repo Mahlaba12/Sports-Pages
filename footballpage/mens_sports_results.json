@@ -1,0 +1,576 @@
+{
+  "football_results": [
+    {
+      "match_id": 1,
+      "home_team": "UJ FC",
+      "away_team": "Tuks",
+      "home_score": 2,
+      "away_score": 1,
+      "match_date": "2025-05-10",
+      "league_id": 2003
+    },
+    {
+      "match_id": 2,
+      "home_team": "Wits",
+      "away_team": "UCT",
+      "home_score": 0,
+      "away_score": 3,
+      "match_date": "2025-05-11",
+      "league_id": 2003
+    },
+    {
+      "match_id": 3,
+      "home_team": "Maties",
+      "away_team": "NWU",
+      "home_score": 2,
+      "away_score": 2,
+      "match_date": "2025-05-12",
+      "league_id": 2003
+    },
+    {
+      "match_id": 4,
+      "home_team": "UL",
+      "away_team": "Venda",
+      "home_score": 1,
+      "away_score": 0,
+      "match_date": "2025-05-13",
+      "league_id": 2001
+    },
+    {
+      "match_id": 5,
+      "home_team": "UKZN",
+      "away_team": "UFS",
+      "home_score": 2,
+      "away_score": 4,
+      "match_date": "2025-05-14",
+      "league_id": 2002
+    },
+    {
+      "match_id": 6,
+      "home_team": "Madibaz",
+      "away_team": "Fort Hare",
+      "home_score": 3,
+      "away_score": 1,
+      "match_date": "2025-05-15",
+      "league_id": 2002
+    },
+    {
+      "match_id": 7,
+      "home_team": "Walter Sisulu",
+      "away_team": "Zululand",
+      "home_score": 1,
+      "away_score": 2,
+      "match_date": "2025-05-16",
+      "league_id": 2002
+    },
+    {
+      "match_id": 8,
+      "home_team": "CPUT",
+      "away_team": "DUT",
+      "home_score": 0,
+      "away_score": 0,
+      "match_date": "2025-05-17",
+      "league_id": 2002
+    },
+    {
+      "match_id": 9,
+      "home_team": "TUT",
+      "away_team": "VUT",
+      "home_score": 1,
+      "away_score": 2,
+      "match_date": "2025-05-18",
+      "league_id": 2001
+    },
+    {
+      "match_id": 10,
+      "home_team": "CUT",
+      "away_team": "Dondol Stars",
+      "home_score": 2,
+      "away_score": 1,
+      "match_date": "2025-05-19",
+      "league_id": 2001
+    },
+    {
+      "match_id": 11,
+      "home_team": "M Tigers FC",
+      "away_team": "JDR Stars",
+      "home_score": 1,
+      "away_score": 1,
+      "match_date": "2025-05-20",
+      "league_id": 2001
+    },
+    {
+      "match_id": 12,
+      "home_team": "Swallows FC",
+      "away_team": "TS Galaxy",
+      "home_score": 3,
+      "away_score": 2,
+      "match_date": "2025-05-21",
+      "league_id": 2001
+    },
+    {
+      "match_id": 13,
+      "home_team": "Thembisa FC",
+      "away_team": "Rosina Sedibane",
+      "home_score": 0,
+      "away_score": 2,
+      "match_date": "2025-05-22",
+      "league_id": 2001
+    },
+    {
+      "match_id": 14,
+      "home_team": "ALexandra FC",
+      "away_team": "Maccabi FC",
+      "home_score": 2,
+      "away_score": 2,
+      "match_date": "2025-05-23",
+      "league_id": 2001
+    },
+    {
+      "match_id": 15,
+      "home_team": "Highlands Park",
+      "away_team": "Soweto All Stars",
+      "home_score": 3,
+      "away_score": 0,
+      "match_date": "2025-05-24",
+      "league_id": 2001
+    },
+    {
+      "match_id": 16,
+      "home_team": "Jomo Cosmos",
+      "away_team": "Pretoria Callies Reserves",
+      "home_score": 0,
+      "away_score": 1,
+      "match_date": "2025-05-25",
+      "league_id": 2001
+    },
+    {
+      "match_id": 17,
+      "home_team": "SuperSport United Academy",
+      "away_team": "Baroka FC",
+      "home_score": 2,
+      "away_score": 3,
+      "match_date": "2025-05-26",
+      "league_id": 2001
+    },
+    {
+      "match_id": 18,
+      "home_team": "Sekhukhune United",
+      "away_team": "UJ FC",
+      "home_score": 1,
+      "away_score": 4,
+      "match_date": "2025-05-27",
+      "league_id": 2001
+    },
+    {
+      "match_id": 19,
+      "home_team": "Venda",
+      "away_team": "TS Galaxy",
+      "home_score": 2,
+      "away_score": 2,
+      "match_date": "2025-05-28",
+      "league_id": 2001
+    },
+    {
+      "match_id": 20,
+      "home_team": "Madibaz",
+      "away_team": "CPUT",
+      "home_score": 3,
+      "away_score": 1,
+      "match_date": "2025-05-29",
+      "league_id": 2002
+    }
+  ],
+
+    "results": [
+    {
+      "league_id": 2008,
+      "home_team_id": 22031,
+      "away_team_id": 10000,
+      "home_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/UKZN_logo.svg/1920px-UKZN_logo.svg.png",
+      "away_logo": "https://safagauteng.org.za/wp-content/uploads/2023/03/University-of-Johannesburg-FC_logo.png",
+      "date": "2025-05-26",
+      "time": "14:00",
+      "venue": "UL Netball Arena",
+      "referee": "Ref. M. Dlamini",
+      "home_score": 32,
+      "away_score": 35
+    },
+    {
+      "league_id": 2008,
+      "home_team_id": 10000,
+      "away_team_id": 22230,
+      "home_logo": "https://safagauteng.org.za/wp-content/uploads/2023/03/University-of-Johannesburg-FC_logo.png",
+      "away_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/University_of_Venda_logo.svg/1200px-University_of_Venda_logo.svg.png",
+      "date": "2025-05-26",
+      "time": "18:00",
+      "venue": "UJ Netball Court",
+      "referee": "Ref. M. Dlamini",
+      "home_score": 58,
+      "away_score": 39
+    },
+    {
+      "league_id": 2008,
+      "home_team_id": 22231,
+      "away_team_id": 10000,
+      "home_logo": "https://usaf.ac.za/wp-content/uploads/2023/08/University_of_Limpopo-logo.webp",
+      "away_logo": "https://safagauteng.org.za/wp-content/uploads/2023/03/University-of-Johannesburg-FC_logo.png",
+      "date": "2025-05-18",
+      "time": "16:00",
+      "venue": "UKZN Netball Grounds",
+      "referee": "Ref. P. Sithole",
+      "home_score": 43,
+      "away_score": 32
+    },
+    {
+      "league_id": 2008,
+      "home_team_id": 21301,
+      "away_team_id": 30001,
+      "home_logo": "https://static.wixstatic.com/media/9ef253_8e2ff0e89754477eac69be92fb74ee6d~mv2.jpeg",
+      "away_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/University_of_the_Free_State_shield.svg/1200px-University_of_the_Free_State_shield.svg.png",
+      "date": "2025-05-27",
+      "time": "17:00",
+      "venue": "UFS Indoor Stadium",
+      "referee": "Ref. P. Sithole",
+      "home_score": 35,
+      "away_score": 54
+    },
+    {
+      "league_id": 2008,
+      "home_team_id": 22231,
+      "away_team_id": 30001,
+      "home_logo": "https://usaf.ac.za/wp-content/uploads/2023/08/University_of_Limpopo-logo.webp",
+      "away_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/University_of_the_Free_State_shield.svg/1200px-University_of_the_Free_State_shield.svg.png",
+      "date": "2025-05-10",
+      "time": "17:00",
+      "venue": "NWU Netball Arena",
+      "referee": "Ref. P. Sithole",
+      "home_score": 59,
+      "away_score": 52
+    },
+    {
+      "league_id": 2009,
+      "home_team_id": 22230,
+      "away_team_id": 21301,
+      "home_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/University_of_Venda_logo.svg/1200px-University_of_Venda_logo.svg.png",
+      "away_logo": "https://static.wixstatic.com/media/9ef253_8e2ff0e89754477eac69be92fb74ee6d~mv2.jpeg",
+      "date": "2025-05-29",
+      "time": "14:00",
+      "venue": "NWU Netball Arena",
+      "referee": "Ref. T. Mahlangu",
+      "home_score": 33,
+      "away_score": 36
+    },
+    {
+      "league_id": 2009,
+      "home_team_id": 10000,
+      "away_team_id": 21301,
+      "home_logo": "https://safagauteng.org.za/wp-content/uploads/2023/03/University-of-Johannesburg-FC_logo.png",
+      "away_logo": "https://static.wixstatic.com/media/9ef253_8e2ff0e89754477eac69be92fb74ee6d~mv2.jpeg",
+      "date": "2025-05-05",
+      "time": "15:00",
+      "venue": "UFS Indoor Stadium",
+      "referee": "Ref. P. Sithole",
+      "home_score": 46,
+      "away_score": 35
+    },
+    {
+      "league_id": 2009,
+      "home_team_id": 22230,
+      "away_team_id": 22231,
+      "home_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/University_of_Venda_logo.svg/1200px-University_of_Venda_logo.svg.png",
+      "away_logo": "https://usaf.ac.za/wp-content/uploads/2023/08/University_of_Limpopo-logo.webp",
+      "date": "2025-05-04",
+      "time": "15:00",
+      "venue": "UL Netball Arena",
+      "referee": "Ref. Z. Khumalo",
+      "home_score": 48,
+      "away_score": 46
+    },
+    {
+      "league_id": 2009,
+      "home_team_id": 30001,
+      "away_team_id": 21301,
+      "home_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/University_of_the_Free_State_shield.svg/1200px-University_of_the_Free_State_shield.svg.png",
+      "away_logo": "https://static.wixstatic.com/media/9ef253_8e2ff0e89754477eac69be92fb74ee6d~mv2.jpeg",
+      "date": "2025-05-19",
+      "time": "17:00",
+      "venue": "UJ Netball Court",
+      "referee": "Ref. Z. Khumalo",
+      "home_score": 56,
+      "away_score": 37
+    },
+    {
+      "league_id": 2009,
+      "home_team_id": 21301,
+      "away_team_id": 22230,
+      "home_logo": "https://static.wixstatic.com/media/9ef253_8e2ff0e89754477eac69be92fb74ee6d~mv2.jpeg",
+      "away_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/University_of_Venda_logo.svg/1200px-University_of_Venda_logo.svg.png",
+      "date": "2025-05-18",
+      "time": "17:00",
+      "venue": "NWU Netball Arena",
+      "referee": "Ref. M. Dlamini",
+      "home_score": 36,
+      "away_score": 59
+    },
+    {
+      "league_id": 3005,
+      "home_team_id": 10000,
+      "away_team_id": 22031,
+      "home_logo": "https://safagauteng.org.za/wp-content/uploads/2023/03/University-of-Johannesburg-FC_logo.png",
+      "away_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/UKZN_logo.svg/1920px-UKZN_logo.svg.png",
+      "date": "2025-05-23",
+      "time": "15:00",
+      "venue": "UJ Netball Court",
+      "referee": "Ref. T. Mahlangu",
+      "home_score": 40,
+      "away_score": 33
+    },
+    {
+      "league_id": 3005,
+      "home_team_id": 22231,
+      "away_team_id": 30001,
+      "home_logo": "https://usaf.ac.za/wp-content/uploads/2023/08/University_of_Limpopo-logo.webp",
+      "away_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/University_of_the_Free_State_shield.svg/1200px-University_of_the_Free_State_shield.svg.png",
+      "date": "2025-05-06",
+      "time": "13:00",
+      "venue": "UL Netball Arena",
+      "referee": "Ref. P. Sithole",
+      "home_score": 46,
+      "away_score": 41
+    },
+    {
+      "league_id": 3005,
+      "home_team_id": 21301,
+      "away_team_id": 10000,
+      "home_logo": "https://static.wixstatic.com/media/9ef253_8e2ff0e89754477eac69be92fb74ee6d~mv2.jpeg",
+      "away_logo": "https://safagauteng.org.za/wp-content/uploads/2023/03/University-of-Johannesburg-FC_logo.png",
+      "date": "2025-05-12",
+      "time": "18:00",
+      "venue": "UKZN Netball Grounds",
+      "referee": "Ref. M. Dlamini",
+      "home_score": 56,
+      "away_score": 45
+    },
+    {
+      "league_id": 3005,
+      "home_team_id": 22230,
+      "away_team_id": 22231,
+      "home_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/University_of_Venda_logo.svg/1200px-University_of_Venda_logo.svg.png",
+      "away_logo": "https://usaf.ac.za/wp-content/uploads/2023/08/University_of_Limpopo-logo.webp",
+      "date": "2025-05-07",
+      "time": "14:00",
+      "venue": "UFS Indoor Stadium",
+      "referee": "Ref. P. Sithole",
+      "home_score": 34,
+      "away_score": 52
+    },
+    {
+      "league_id": 3005,
+      "home_team_id": 21301,
+      "away_team_id": 22231,
+      "home_logo": "https://static.wixstatic.com/media/9ef253_8e2ff0e89754477eac69be92fb74ee6d~mv2.jpeg",
+      "away_logo": "https://usaf.ac.za/wp-content/uploads/2023/08/University_of_Limpopo-logo.webp",
+      "date": "2025-05-11",
+      "time": "17:00",
+      "venue": "Venda Netball Grounds",
+      "referee": "Ref. M. Dlamini",
+      "home_score": 45,
+      "away_score": 60
+    },
+    {
+      "league_id": 3006,
+      "home_team_id": 21301,
+      "away_team_id": 22230,
+      "home_logo": "https://static.wixstatic.com/media/9ef253_8e2ff0e89754477eac69be92fb74ee6d~mv2.jpeg",
+      "away_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/University_of_Venda_logo.svg/1200px-University_of_Venda_logo.svg.png",
+      "date": "2025-05-29",
+      "time": "14:00",
+      "venue": "UFS Indoor Stadium",
+      "referee": "Ref. P. Sithole",
+      "home_score": 34,
+      "away_score": 56
+    },
+    {
+      "league_id": 3006,
+      "home_team_id": 22230,
+      "away_team_id": 30001,
+      "home_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/University_of_Venda_logo.svg/1200px-University_of_Venda_logo.svg.png",
+      "away_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/University_of_the_Free_State_shield.svg/1200px-University_of_the_Free_State_shield.svg.png",
+      "date": "2025-05-16",
+      "time": "17:00",
+      "venue": "UJ Netball Court",
+      "referee": "Ref. P. Sithole",
+      "home_score": 30,
+      "away_score": 58
+    },
+    {
+      "league_id": 3006,
+      "home_team_id": 10000,
+      "away_team_id": 22231,
+      "home_logo": "https://safagauteng.org.za/wp-content/uploads/2023/03/University-of-Johannesburg-FC_logo.png",
+      "away_logo": "https://usaf.ac.za/wp-content/uploads/2023/08/University_of_Limpopo-logo.webp",
+      "date": "2025-05-19",
+      "time": "13:00",
+      "venue": "UFS Indoor Stadium",
+      "referee": "Ref. T. Mahlangu",
+      "home_score": 31,
+      "away_score": 40
+    },
+    {
+      "league_id": 3006,
+      "home_team_id": 22231,
+      "away_team_id": 10000,
+      "home_logo": "https://usaf.ac.za/wp-content/uploads/2023/08/University_of_Limpopo-logo.webp",
+      "away_logo": "https://safagauteng.org.za/wp-content/uploads/2023/03/University-of-Johannesburg-FC_logo.png",
+      "date": "2025-05-14",
+      "time": "15:00",
+      "venue": "UL Netball Arena",
+      "referee": "Ref. P. Sithole",
+      "home_score": 35,
+      "away_score": 43
+    },
+    {
+      "league_id": 3006,
+      "home_team_id": 21301,
+      "away_team_id": 30001,
+      "home_logo": "https://static.wixstatic.com/media/9ef253_8e2ff0e89754477eac69be92fb74ee6d~mv2.jpeg",
+      "away_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/University_of_the_Free_State_shield.svg/1200px-University_of_the_Free_State_shield.svg.png",
+      "date": "2025-05-23",
+      "time": "18:00",
+      "venue": "UJ Netball Court",
+      "referee": "Ref. T. Mahlangu",
+      "home_score": 46,
+      "away_score": 38
+    }
+  ],
+
+"rugby_results": [
+        {
+            "match_id": 100,
+            "home_team": "CUT",
+            "away_team": "Stellenbosch University (Maties)",
+            "stadium": "Fort Hare Stadium",
+            "home_score": 23,
+            "away_score": 26,
+            "date": "2025-05-31 13:44"
+        },
+        {
+            "match_id": 101,
+            "home_team": "Fort Hare",
+            "away_team": "UJ FC",
+            "stadium": "TUT Stadium",
+            "home_score": 40,
+            "away_score": 29,
+            "date": "2025-05-30 13:44"
+        },
+        {
+            "match_id": 102,
+            "home_team": "UFS",
+            "away_team": "NWU",
+            "stadium": "UFS Stadium",
+            "home_score": 11,
+            "away_score": 13,
+            "date": "2025-05-29 13:44"
+        },
+        {
+            "match_id": 103,
+            "home_team": "CPUT",
+            "away_team": "DUT",
+            "stadium": "UFS Stadium",
+            "home_score": 12,
+            "away_score": 10,
+            "date": "2025-05-28 13:44"
+        },
+        {
+            "match_id": 104,
+            "home_team": "CPUT",
+            "away_team": "NWU",
+            "stadium": "Fort Hare Stadium",
+            "home_score": 13,
+            "away_score": 15,
+            "date": "2025-05-27 13:44"
+        },
+        {
+            "match_id": 105,
+            "home_team": "Stellenbosch University (Maties)",
+            "away_team": "DUT",
+            "stadium": "UFS Stadium",
+            "home_score": 11,
+            "away_score": 22,
+            "date": "2025-05-26 13:44"
+        },
+        {
+            "match_id": 106,
+            "home_team": "CPUT",
+            "away_team": "Stellenbosch University (Maties)",
+            "stadium": "Fort Hare Stadium",
+            "home_score": 18,
+            "away_score": 25,
+            "date": "2025-05-25 13:44"
+        },
+        {
+            "match_id": 107,
+            "home_team": "Wits University",
+            "away_team": "Walter Sisulu",
+            "stadium": "TUT Stadium",
+            "home_score": 30,
+            "away_score": 23,
+            "date": "2025-05-24 13:44"
+        },
+        {
+            "match_id": 108,
+            "home_team": "UL",
+            "away_team": "DUT",
+            "stadium": "NWU Stadium",
+            "home_score": 10,
+            "away_score": 25,
+            "date": "2025-05-23 13:44"
+        },
+        {
+            "match_id": 109,
+            "home_team": "TUT",
+            "away_team": "UFS",
+            "stadium": "CPUT Stadium",
+            "home_score": 39,
+            "away_score": 12,
+            "date": "2025-05-22 13:44"
+        }
+    ]
+    ,
+
+  "basketball_results": [
+    {
+      "fixture_id": 100,
+      "home_team_id": 10002,
+      "away_team_id": 2002,
+      "home_score": 89,
+      "away_score": 76,
+      "date": "2025-05-30T17:00:00Z",
+      "stadium_id": 201
+    },
+    {
+      "fixture_id": 99,
+      "home_team_id": 3003,
+      "away_team_id": 30003,
+      "home_score": 82,
+      "away_score": 85,
+      "date": "2025-05-28T16:00:00Z",
+      "stadium_id": 202
+    }
+  ],
+
+  "cricket_results": [
+    { "match_id": 101, "home_team": 10003, "away_team": 3003, "home_score": 250, "away_score": 200, "winner": 10003 },
+    { "match_id": 102, "home_team": 3004, "away_team": 30003, "home_score": 180, "away_score": 220, "winner": 30003 },
+    { "match_id": 103, "home_team": 20003, "away_team": 23230, "home_score": 210, "away_score": 190, "winner": 20003 },
+    { "match_id": 104, "home_team": 21331, "away_team": 22330, "home_score": 170, "away_score": 180, "winner": 22330 },
+    { "match_id": 105, "home_team": 22231, "away_team": 20031, "home_score": 190, "away_score": 190, "winner": null },
+    { "match_id": 106, "home_team": 10003, "away_team": 3004, "home_score": 240, "away_score": 200, "winner": 10003 },
+    { "match_id": 107, "home_team": 30003, "away_team": 20003, "home_score": 210, "away_score": 210, "winner": null },
+    { "match_id": 108, "home_team": 23230, "away_team": 21331, "home_score": 200, "away_score": 220, "winner": 21331 },
+    { "match_id": 109, "home_team": 22330, "away_team": 22231, "home_score": 230, "away_score": 180, "winner": 22330 },
+    { "match_id": 110, "home_team": 20031, "away_team": 3003, "home_score": 210, "away_score": 260, "winner": 3003 }
+  ]
+
+}

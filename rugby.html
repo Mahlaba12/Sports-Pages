@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>My Football Club</title>
+  <link rel="stylesheet" href="rugby.css" />
+</head>
+<body>
+
+    <header>
+        <h1>UJ SPORTS</h1>
+        <nav>
+          
+          <a href="../homepage.html">Home</a>
+          <a href="../bookings/bookings.html">Accommodations</a>
+          <a href="#" class="self">Sports</a>
+          <a href="#">Events</a>
+          <a href="../music/music.html">Music</a>
+        </nav>
+    </header> 
+    
+    <div>
+        <button id="back-button" onclick="goBack()">← Back</button>
+    </div>
+    
+
+        <section class="team-photo">
+            <section class="team-photo">
+                <h2>UJ RUGBY CLUB</h2>
+                <img src="UJ club.jpeg" alt="Team Photo" onerror="this.src='fallback.jpg'" />
+            </section>
+            
+            <section class="players">
+                <h2>Player Roster</h2>
+                <ul id="player-list">Loading players...</ul>
+            </section>
+            
+            <section class="results">
+                <h2>Latest Results</h2>
+                <button onclick="fetchResults()">Refresh</button>
+                <div class="loader" id="results-loader"></div>
+                <ul id="results-list"></ul>
+            </section>
+            
+            <section class="upcoming">
+                <h2>Upcoming Games</h2>
+                <button onclick="fetchUpcoming()">Refresh</button>
+                <div class="loader" id="upcoming-loader"></div>
+                <ul id="upcoming-list"></ul>
+            </section>
+            
+        </section>
+
+  <footer>
+    © 2025 University of Johannesburg. All rights reserved.
+  </footer>
+
+  <script src="rugby.js"></script>
+</body>
+</html>

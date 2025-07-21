@@ -1,0 +1,204 @@
+{
+  "uj_football_players": [
+    {
+      "player_id": 101,
+      "name": "Thabo Mokoena",
+      "position": "Forward",
+      "nationality": "South Africa",
+      "age": 23,
+      "jersey_number": 9,
+      "image": "https://randomuser.me/api/portraits/men/1.jpg",
+      "team_id": 1001
+    },
+    {
+      "player_id": 102,
+      "name": "Sibusiso Dlamini",
+      "position": "Midfielder",
+      "nationality": "South Africa",
+      "age": 21,
+      "jersey_number": 10,
+      "image": "https://randomuser.me/api/portraits/men/2.jpg",
+      "team_id": 1001
+    },
+    {
+      "player_id": 103,
+      "name": "Kgaugelo Mahlangu",
+      "position": "Goalkeeper",
+      "nationality": "South Africa",
+      "age": 24,
+      "jersey_number": 1,
+      "image": "https://randomuser.me/api/portraits/men/3.jpg",
+      "team_id": 1001
+    },
+    {
+      "player_id": 104,
+      "name": "Ayanda Nkosi",
+      "position": "Defender",
+      "nationality": "South Africa",
+      "age": 22,
+      "jersey_number": 4,
+      "image": "https://randomuser.me/api/portraits/men/4.jpg",
+      "team_id": 1002
+    },
+    {
+      "player_id": 105,
+      "name": "Neo Radebe",
+      "position": "Forward",
+      "nationality": "South Africa",
+      "age": 20,
+      "jersey_number": 11,
+      "image": "https://randomuser.me/api/portraits/men/5.jpg",
+      "team_id": 1002
+    },
+    {
+      "player_id": 106,
+      "name": "Samkelisiwe Zulu",
+      "position": "Midfielder",
+      "nationality": "South Africa",
+      "age": 23,
+      "jersey_number": 6,
+      "image": "https://randomuser.me/api/portraits/women/6.jpg",
+      "team_id": 1003
+    },
+    {
+      "player_id": 107,
+      "name": "Kamohelo Sithole",
+      "position": "Goalkeeper",
+      "nationality": "South Africa",
+      "age": 24,
+      "jersey_number": 1,
+      "image": "https://randomuser.me/api/portraits/men/7.jpg",
+      "team_id": 1003
+    },
+    {
+      "player_id": 108,
+      "name": "Nhlanhla Mkhize",
+      "position": "Defender",
+      "nationality": "South Africa",
+      "age": 25,
+      "jersey_number": 5,
+      "image": "https://randomuser.me/api/portraits/men/8.jpg",
+      "team_id": 1004
+    },
+    {
+      "player_id": 109,
+      "name": "Sipho Khumalo",
+      "position": "Midfielder",
+      "nationality": "South Africa",
+      "age": 22,
+      "jersey_number": 7,
+      "image": "https://randomuser.me/api/portraits/men/9.jpg",
+      "team_id": 1004
+    },
+    {
+      "player_id": 110,
+      "name": "Lerato Mabuza",
+      "position": "Forward",
+      "nationality": "South Africa",
+      "age": 21,
+      "jersey_number": 18,
+      "image": "https://randomuser.me/api/portraits/women/10.jpg",
+      "team_id": 1005
+    },
+    {
+      "player_id": 111,
+      "name": "Mpho Baloyi",
+      "position": "Forward",
+      "nationality": "South Africa",
+      "age": 22,
+      "jersey_number": 19,
+      "image": "https://randomuser.me/api/portraits/men/11.jpg",
+      "team_id": 1006
+    },
+    {
+      "player_id": 112,
+      "name": "Banele Ndaba",
+      "position": "Midfielder",
+      "nationality": "South Africa",
+      "age": 23,
+      "jersey_number": 14,
+      "image": "https://randomuser.me/api/portraits/men/12.jpg",
+      "team_id": 1006
+    },
+    {
+      "player_id": 113,
+      "name": "Zanele Khosa",
+      "position": "Defender",
+      "nationality": "South Africa",
+      "age": 21,
+      "jersey_number": 3,
+      "image": "https://randomuser.me/api/portraits/women/13.jpg",
+      "team_id": 1007
+    },
+    {
+      "player_id": 114,
+      "name": "Thuli Madonsela",
+      "position": "Goalkeeper",
+      "nationality": "South Africa",
+      "age": 22,
+      "jersey_number": 1,
+      "image": "https://randomuser.me/api/portraits/women/14.jpg",
+      "team_id": 1007
+    },
+    {
+      "player_id": 115,
+      "name": "Lwazi Ntuli",
+      "position": "Defender",
+      "nationality": "South Africa",
+      "age": 24,
+      "jersey_number": 2,
+      "image": "https://randomuser.me/api/portraits/men/15.jpg",
+      "team_id": 1008
+    },
+    {
+      "player_id": 116,
+      "name": "Nomsa Dube",
+      "position": "Midfielder",
+      "nationality": "South Africa",
+      "age": 23,
+      "jersey_number": 8,
+      "image": "https://randomuser.me/api/portraits/women/16.jpg",
+      "team_id": 1008
+    },
+    {
+      "player_id": 117,
+      "name": "Siphesihle Ndlovu",
+      "position": "Forward",
+      "nationality": "South Africa",
+      "age": 22,
+      "jersey_number": 11,
+      "image": "https://randomuser.me/api/portraits/men/17.jpg",
+      "team_id": 1009
+    },
+    {
+      "player_id": 118,
+      "name": "Nokuthula Khumalo",
+      "position": "Defender",
+      "nationality": "South Africa",
+      "age": 25,
+      "jersey_number": 5,
+      "image": "https://randomuser.me/api/portraits/women/18.jpg",
+      "team_id": 1009
+    },
+    {
+      "player_id": 119,
+      "name": "Mxolisi Dube",
+      "position": "Goalkeeper",
+      "nationality": "South Africa",
+      "age": 21,
+      "jersey_number": 1,
+      "image": "https://randomuser.me/api/portraits/men/19.jpg",
+      "team_id": 1010
+    },
+    {
+      "player_id": 120,
+      "name": "Lindiwe Molefe",
+      "position": "Midfielder",
+      "nationality": "South Africa",
+      "age": 22,
+      "jersey_number": 13,
+      "image": "https://randomuser.me/api/portraits/women/20.jpg",
+      "team_id": 1010
+    }
+  ]
+}

@@ -1,0 +1,834 @@
+{
+    "football_teams": [
+    {
+        "team_id": 10000,
+        "image_url": "https://safagauteng.org.za/wp-content/uploads/2023/03/University-of-Johannesburg-FC_logo.png",
+        "team_name": "UJ FC",
+        "team_description": "UJ Football Club is a competitive football team representing the University of Johannesburg in various leagues and tournaments. The team is known for its strong performance and commitment to excellence in the sport.",
+        "number_of_leagues": 3
+    },
+    {
+        "team_id": 21221,
+        "image_url":"https://upload.wikimedia.org/wikipedia/commons/8/81/University_of_Pretoria_Coat_of_Arms.png",
+        "team_name": "Tuks",
+        "team_description": "UJ Football Club is a competitive football team representing the University of Johannesburg in various leagues and tournaments. The team is known for its strong performance and commitment to excellence in the sport.",
+        "number_of_leagues": 3
+    },
+    {
+        "team_id": 20211,
+        "image_url": "https://www.sahistory.org.za/sites/default/files/field/image/wits-logo.jpg",
+        "team_name": "Wits",
+        "team_description": "UJ Football Club is a competitive football team representing the University of Johannesburg in various leagues and tournaments. The team is known for its strong performance and commitment to excellence in the sport.",
+        "number_of_leagues": 3
+    },
+    {
+        "team_id": 21201,
+        "image_url": "https://law.uct.ac.za/sites/default/files/styles/standard_lg/public/content_migration/law_uct_ac_za/59/images/images.png%2520UCT%2520logo%25201.png?h=e6b7061d&itok=4UlJ7Qnl",
+        "team_name": "UCT",
+        "team_description": "UJ Football Club is a competitive football team representing the University of Johannesburg in various leagues and tournaments. The team is known for its strong performance and commitment to excellence in the sport.",
+        "number_of_leagues": 3
+    },
+    {
+        "team_id": 21212,
+        "image_url": "http://blogs.sun.ac.za/open-day/files/2024/01/MatiesSport_vertical_centred_GoldandMaroon_RGB-242x300.jpg",
+        "team_name": "Maties",
+        "team_description": "UJ Football Club is a competitive football team representing the University of Johannesburg in various leagues and tournaments. The team is known for its strong performance and commitment to excellence in the sport.",
+        "number_of_leagues": 3
+    },
+    {
+        "team_id": 21301,
+        "image_url": "https://static.wixstatic.com/media/9ef253_8e2ff0e89754477eac69be92fb74ee6d~mv2.jpeg/v1/fill/w_768,h_768,al_c,q_85,enc_avif,quality_auto/9ef253_8e2ff0e89754477eac69be92fb74ee6d~mv2.jpeg",
+        "team_name": "NWU",
+        "team_description": "UJ Football Club is a competitive football team representing the University of Johannesburg in various leagues and tournaments. The team is known for its strong performance and commitment to excellence in the sport.",
+        "number_of_leagues": 3
+    },
+    {
+        "team_id": 22231,
+        "image_url": "https://usaf.ac.za/wp-content/uploads/2023/08/University_of_Limpopo-logo.webp",
+        "team_name": "UL",
+        "team_description": "UJ Football Club is a competitive football team representing the University of Johannesburg in various leagues and tournaments. The team is known for its strong performance and commitment to excellence in the sport.",
+        "number_of_leagues": 3
+    },
+    {
+        "team_id": 22230,
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/University_of_Venda_logo.svg/1200px-University_of_Venda_logo.svg.png",
+        "team_name": "Venda",
+        "team_description": "UJ Football Club is a competitive football team representing the University of Johannesburg in various leagues and tournaments. The team is known for its strong performance and commitment to excellence in the sport.",
+        "number_of_leagues": 3
+    },
+    {
+        "team_id": 22031,
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/UKZN_logo.svg/1920px-UKZN_logo.svg.png",
+        "team_name": "UKZN",
+        "team_description": "UJ Football Club is a competitive football team representing the University of Johannesburg in various leagues and tournaments. The team is known for its strong performance and commitment to excellence in the sport.",
+        "number_of_leagues": 3
+    },
+    {
+        "team_id": 30000,
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/University_of_the_Free_State_shield.svg/1200px-University_of_the_Free_State_shield.svg.png",
+        "team_name": "UFS",
+        "team_description": "UJ Football Club is a competitive football team representing the University of Johannesburg in various leagues and tournaments. The team is known for its strong performance and commitment to excellence in the sport.",
+        "number_of_leagues": 3
+    },
+    {
+        "team_id": 24230,
+        "image_url": "https://s3-eu-west-1.amazonaws.com/inqaku-master/liveclublogos/197_logo.jpg",
+        "team_name": "Madibaz",
+        "team_description": "UJ Football Club is a competitive football team representing the University of Johannesburg in various leagues and tournaments. The team is known for its strong performance and commitment to excellence in the sport.",
+        "number_of_leagues": 3
+    },
+    {
+        "team_id": 20000,
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/f/fc/University_of_Fort_Hare_logo.svg",
+        "team_name": "Fort Hare",
+        "team_description": "UJ Football Club is a competitive football team representing the University of Johannesburg in various leagues and tournaments. The team is known for its strong performance and commitment to excellence in the sport.",
+        "number_of_leagues": 3
+    },
+    {
+        "team_id": 23230,
+        "image_url": "https://www.govpage.co.za/uploads/2/4/0/5/24052997/walter-sisulu-university_orig.jpg",
+        "team_name": "Walter Sisulu",
+        "team_description": "UJ Football Club is a competitive football team representing the University of Johannesburg in various leagues and tournaments. The team is known for its strong performance and commitment to excellence in the sport.",
+        "number_of_leagues": 3
+    },
+    {
+        "team_id": 21331,
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/14/University_of_Zululand_logo.svg/1200px-University_of_Zululand_logo.svg.png",
+        "team_name": "Zululand",
+        "team_description": "UJ Football Club is a competitive football team representing the University of Johannesburg in various leagues and tournaments. The team is known for its strong performance and commitment to excellence in the sport.",
+        "number_of_leagues": 3
+    },
+    {
+        "team_id": 22330,
+        "image_url": "https://cdn.freelogovectors.net/wp-content/uploads/2022/03/cput_logo_freelogovectors.net_.png",
+        "team_name": "CPUT",
+        "team_description": "UJ Football Club is a competitive football team representing the University of Johannesburg in various leagues and tournaments. The team is known for its strong performance and commitment to excellence in the sport.",
+        "number_of_leagues": 3
+    },
+    {
+        "team_id": 22231,
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/The_Durban_University_of_Technology_new_log.jpg",
+        "team_name": "DUT",
+        "team_description": "UJ Football Club is a competitive football team representing the University of Johannesburg in various leagues and tournaments. The team is known for its strong performance and commitment to excellence in the sport.",
+        "number_of_leagues": 3
+    },
+    {
+        "team_id": 20031,
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/49/Tshwane_University_of_Technology_logo.svg/1200px-Tshwane_University_of_Technology_logo.svg.png",
+        "team_name": "TUT",
+        "team_description": "UJ Football Club is a competitive football team representing the University of Johannesburg in various leagues and tournaments. The team is known for its strong performance and commitment to excellence in the sport.",
+        "number_of_leagues": 3
+    },
+    {
+        "team_id": 26231,
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/VUT_logo-TM.png",
+        "team_name": "VUT",
+        "team_description": "UJ Football Club is a competitive football team representing the University of Johannesburg in various leagues and tournaments. The team is known for its strong performance and commitment to excellence in the sport.",
+        "number_of_leagues": 4
+    },
+    {
+        "team_id": 25231,
+        "image_url": "https://cms.cut.ac.za/Files/Froala/1fe976e3-b12d-49a3-9fca-461f917eadb1.jpg",
+        "team_name": "CUT",
+        "team_description": "UJ Football Club is a competitive football team representing the University of Johannesburg in various leagues and tournaments. The team is known for its strong performance and commitment to excellence in the sport.",
+        "number_of_leagues": 3
+    },
+    {
+        "team_id": 23334,
+        "image_url":"https://s3-eu-west-1.amazonaws.com/inqaku-master/liveclublogos/1073_logo.png",
+        "team_name": "Dondol Stars",
+        "team_description": "UJ Football Club is a competitive football team representing the University of Johannesburg in various leagues and tournaments. The team is known for its strong performance and commitment to excellence in the sport.",
+        "number_of_leagues": 3
+    },
+    {
+        "team_id": 22731,
+        "image_url": "https://s3-eu-west-1.amazonaws.com/inqaku-master/liveclublogos/1076_logo.png",
+        "team_name": "M Tigers FC",
+        "team_description": "UJ Football Club is a competitive football team representing the University of Johannesburg in various leagues and tournaments. The team is known for its strong performance and commitment to excellence in the sport.",
+        "number_of_leagues": 3
+    },
+    {
+        "team_id": 22831,
+        "image_url": "https://pbs.twimg.com/profile_images/1166599797677182980/UHKOrMnu_400x400.jpg",
+        "team_name": "JDR Stars",
+        "team_description": "UJ Football Club is a competitive football team representing the University of Johannesburg in various leagues and tournaments. The team is known for its strong performance and commitment to excellence in the sport.",
+        "number_of_leagues": 3
+    },
+    {
+        "team_id": 29231,
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/2/27/Moroka_Swallows_F.C._logo.png",
+        "team_name": "Swallows FC",
+        "team_description": "UJ Football Club is a competitive football team representing the University of Johannesburg in various leagues and tournaments. The team is known for its strong performance and commitment to excellence in the sport.",
+        "number_of_leagues": 3
+    },
+    {
+        "team_id": 17631,
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/6/65/TS_Galaxy.png",
+        "team_name": "TS Galaxy",
+        "team_description": "UJ Football Club is a competitive football team representing the University of Johannesburg in various leagues and tournaments. The team is known for its strong performance and commitment to excellence in the sport.",
+        "number_of_leagues": 3
+    },
+    {
+        "team_id": 12101,
+        "image_url": "https://lens.usercontent.google.com/image?vsrid=CPWKsb660ZW3CBACGAEiJGQ3YjZmZWU5LTYwNzctNGY1ZS1iOTY2LWEyNjJhNjM1MDk4YTIGIgJ3ZSgeOMOgqdyiy40D&gsessionid=0J0MdWyN45PsMXMgB-2XRFcxYB-cv1VRgcasUdEv0L56oBImYwkRZg",
+        "team_name": "Thembisa FC",
+        "team_description": "UJ Football Club is a competitive football team representing the University of Johannesburg in various leagues and tournaments. The team is known for its strong performance and commitment to excellence in the sport.",
+        "number_of_leagues": 3
+    },
+    {
+        "team_id": 28230,
+        "image_url": "https://lens.usercontent.google.com/image?vsrid=COCc1djP9O36IhACGAEiJGQ3YTFjZmQ5LWMwNDgtNGVjMS04OGUwLTExMWFlYjM3ZTZmZTIGIgJ3ZSgZOODLlvWhy40D&gsessionid=7ouBmKHLMHlga6NknKxBrZEwQ8aP6FLdC1DRcnq8WZYnzYVz3P2V7g",
+        "team_name": "Rosina Sedibane",
+        "team_description": "UJ Football Club is a competitive football team representing the University of Johannesburg in various leagues and tournaments. The team is known for its strong performance and commitment to excellence in the sport.",
+        "number_of_leagues": 3
+    },
+    {
+        "team_id": 32281,
+        "image_url": "https://www.alexutd.com/s/misc/logo.jpg?t=1746471222",
+        "team_name": "ALexandra FC",
+        "team_description": "Alexandra FC is a competitive football team representing the Alexandra community in various leagues and tournaments. The team is known for its strong performance and commitment to excellence in the sport.",
+        "number_of_leagues": 3
+    },
+    {
+        "team_id": 34501,
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/e/e9/Maccabi_Tel_Aviv.png",
+        "team_name": "Maccabi FC",
+        "team_description": "Maccabi FC is a competitive football team representing the Maccabi community in various leagues and tournaments. The team is known for its strong performance and commitment to excellence in the sport.",
+        "number_of_leagues": 3
+    },
+    {
+        "team_id": 10231,
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/6/65/Highlands_Park_F.C._new_logo.png",
+        "team_name": "Highlands Park",
+        "team_description": "UJ Football Club is a competitive football team representing the University of Johannesburg in various leagues and tournaments. The team is known for its strong performance and commitment to excellence in the sport.",
+        "number_of_leagues": 3
+    },
+    {
+        "team_id": 20031,
+        "image_url": "https://pbs.twimg.com/profile_images/2265412433/Soweto_20All_20Stars_400x400.jpg",
+        "team_name": "Soweto All Stars",
+        "team_description": "UJ Football Club is a competitive football team representing the University of Johannesburg in various leagues and tournaments. The team is known for its strong performance and commitment to excellence in the sport.",
+        "number_of_leagues": 3
+    },
+    {
+        "team_id": 51231,
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/9/95/Jomo_Cosmos_logo.png",
+        "team_name": "Jomo Cosmos",
+        "team_description": "UJ Football Club is a competitive football team representing the University of Johannesburg in various leagues and tournaments. The team is known for its strong performance and commitment to excellence in the sport.",
+        "number_of_leagues": 3
+    },
+    {
+        "team_id": 29242,
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/b/bd/Pretoria_Callies_logo.png",
+        "team_name": "Pretoria Callies Reserves",
+        "team_description": "UJ Football Club is a competitive football team representing the University of Johannesburg in various leagues and tournaments. The team is known for its strong performance and commitment to excellence in the sport.",
+        "number_of_leagues": 3
+    },
+    {
+        "team_id": 26931,
+        "image_url": "https://static.wikia.nocookie.net/logopedia/images/2/2d/SSN.png/revision/latest?cb=20190309144550",
+        "team_name": "SuperSport United Academy",
+        "team_description": "UJ Football Club is a competitive football team representing the University of Johannesburg in various leagues and tournaments. The team is known for its strong performance and commitment to excellence in the sport.",
+        "number_of_leagues": 3
+    },
+    {
+        "team_id": 21239,
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/94/Baroka_F.C._logo.svg/1200px-Baroka_F.C._logo.svg.png",
+        "team_name": "Baroka FC",
+        "team_description": "UJ Football Club is a competitive football team representing the University of Johannesburg in various leagues and tournaments. The team is known for its strong performance and commitment to excellence in the sport.",
+        "number_of_leagues": 3
+    },
+    {
+        "team_id": 32631,
+        "image_url":"https://tmssl.akamaized.net//images/wappen/head/107699.png?lm=1680633484",
+        "team_name": "Sekhukhune United Reserves",
+        "team_description": "UJ Football Club is a competitive football team representing the University of Johannesburg in various leagues and tournaments. The team is known for its strong performance and commitment to excellence in the sport.",
+        "number_of_leagues": 3
+    }
+    
+    ],
+
+    "netball_teams": [
+        {
+            "team_id": 10000,
+            "image_url": "https://safagauteng.org.za/wp-content/uploads/2023/03/University-of-Johannesburg-FC_logo.png",
+            "team_name": "UJ FC",
+            "team_description": "UJ Football Club is a competitive football team representing the University of Johannesburg in various leagues and tournaments. The team is known for its strong performance and commitment to excellence in the sport.",
+            "number_of_leagues": 3
+       },
+    {
+        "team_id": 21301,
+        "image_url": "https://static.wixstatic.com/media/9ef253_8e2ff0e89754477eac69be92fb74ee6d~mv2.jpeg/v1/fill/w_768,h_768,al_c,q_85,enc_avif,quality_auto/9ef253_8e2ff0e89754477eac69be92fb74ee6d~mv2.jpeg",
+        "team_name": "NWU",
+        "team_description": "UJ Football Club is a competitive football team representing the University of Johannesburg in various leagues and tournaments. The team is known for its strong performance and commitment to excellence in the sport.",
+        "number_of_leagues": 3
+    },
+    {
+        "team_id": 22231,
+        "image_url": "https://usaf.ac.za/wp-content/uploads/2023/08/University_of_Limpopo-logo.webp",
+        "team_name": "UL",
+        "team_description": "UJ Football Club is a competitive football team representing the University of Johannesburg in various leagues and tournaments. The team is known for its strong performance and commitment to excellence in the sport.",
+        "number_of_leagues": 3
+    },
+    {
+        "team_id": 22230,
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/University_of_Venda_logo.svg/1200px-University_of_Venda_logo.svg.png",
+        "team_name": "Venda",
+        "team_description": "UJ Football Club is a competitive football team representing the University of Johannesburg in various leagues and tournaments. The team is known for its strong performance and commitment to excellence in the sport.",
+        "number_of_leagues": 3
+    },
+    {
+        "team_id": 22031,
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/UKZN_logo.svg/1920px-UKZN_logo.svg.png",
+        "team_name": "UKZN",
+        "team_description": "UJ Football Club is a competitive football team representing the University of Johannesburg in various leagues and tournaments. The team is known for its strong performance and commitment to excellence in the sport.",
+        "number_of_leagues": 3
+    },
+       {    
+            "team_id": 3003,
+            "image_url": "Netball (USSA)",
+            "team_name": "Stellenbosch University (Maties)",
+            "team_description": "Participates in Cricket (USSA), Rugby (Varsity Cup, USSA), Basketball (USSA), and Netball (Varsity, USSA).",
+            "number_of_leagues": 5
+       },
+       {
+            "team_id": 3003,
+            "image_url": " (USSA)",
+            "team_name": "Wits University",
+            "team_description": "Participates in Cricket (USSA), Rugby (Varsity Cup, USSA), Basketball (USSA), and Netball (Varsity, USSA).",
+            "number_of_leagues": 5
+        },
+
+        {
+            "team_id": 15,
+            "image_url": "https://example.com/images/vut_netball.png",
+            "team_name": "Vaal University of Technology (VUT)",
+            "team_description": "Competes in Gauteng Netball Super League.",
+            "number_of_leagues": 1
+        },
+        {
+            "team_id": 30001,
+            "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/University_of_the_Free_State_shield.svg/1200px-University_of_the_Free_State_shield.svg.png",
+            "team_name": "UFS",
+            "team_description": "UJ Football Club is a competitive football team representing the University of Johannesburg in various leagues and tournaments. The team is known for its strong performance and commitment to excellence in the sport.",
+            "number_of_leagues": 3
+       },
+    {
+        "team_id": 20001,
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/f/fc/University_of_Fort_Hare_logo.svg",
+        "team_name": "Fort Hare",
+        "team_description": "UJ Football Club is a competitive football team representing the University of Johannesburg in various leagues and tournaments. The team is known for its strong performance and commitment to excellence in the sport.",
+        "number_of_leagues": 3
+    }
+
+    ],
+
+    "rugby_teams": [
+       {
+            "team_id": 10001,
+            "image_url": "https://safagauteng.org.za/wp-content/uploads/2023/03/University-of-Johannesburg-FC_logo.png",
+            "team_name": "UJ FC",
+            "team_description": "UJ Football Club is a competitive football team representing the University of Johannesburg in various leagues and tournaments. The team is known for its strong performance and commitment to excellence in the sport.",
+            "number_of_leagues": 3
+        },
+        {
+            "team_id": 3003,
+            "image_url": "Rugby Varsity Cup",
+            "team_name": "Stellenbosch University (Maties)",
+            "team_description": "Participates in Cricket (USSA), Rugby (Varsity Cup, USSA), Basketball (USSA), and Netball (Varsity, USSA).",
+            "number_of_leagues": 5
+        },
+        {
+            "team_id": 3003,
+            "image_url": " (USSA)",
+            "team_name": "Wits University",
+            "team_description": "Participates in Cricket (USSA), Rugby (Varsity Cup, USSA), Basketball (USSA), and Netball (Varsity, USSA).",
+            "number_of_leagues": 5
+        },
+        {
+            "team_id": 30002,
+            "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/University_of_the_Free_State_shield.svg/1200px-University_of_the_Free_State_shield.svg.png",
+            "team_name": "UFS",
+            "team_description": "UJ Football Club is a competitive football team representing the University of Johannesburg in various leagues and tournaments. The team is known for its strong performance and commitment to excellence in the sport.",
+            "number_of_leagues": 3
+        },
+        {
+        "team_id": 20003,
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/f/fc/University_of_Fort_Hare_logo.svg",
+        "team_name": "Fort Hare",
+        "team_description": "UJ Football Club is a competitive football team representing the University of Johannesburg in various leagues and tournaments. The team is known for its strong performance and commitment to excellence in the sport.",
+        "number_of_leagues": 3
+    },
+    {
+        "team_id": 23230,
+        "image_url": "https://www.govpage.co.za/uploads/2/4/0/5/24052997/walter-sisulu-university_orig.jpg",
+        "team_name": "Walter Sisulu",
+        "team_description": "UJ Football Club is a competitive football team representing the University of Johannesburg in various leagues and tournaments. The team is known for its strong performance and commitment to excellence in the sport.",
+        "number_of_leagues": 3
+    },
+    {
+        "team_id": 21331,
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/14/University_of_Zululand_logo.svg/1200px-University_of_Zululand_logo.svg.png",
+        "team_name": "Zululand",
+        "team_description": "UJ Football Club is a competitive football team representing the University of Johannesburg in various leagues and tournaments. The team is known for its strong performance and commitment to excellence in the sport.",
+        "number_of_leagues": 3
+    },
+    {
+        "team_id": 21301,
+        "image_url": "https://static.wixstatic.com/media/9ef253_8e2ff0e89754477eac69be92fb74ee6d~mv2.jpeg/v1/fill/w_768,h_768,al_c,q_85,enc_avif,quality_auto/9ef253_8e2ff0e89754477eac69be92fb74ee6d~mv2.jpeg",
+        "team_name": "NWU",
+        "team_description": "UJ Football Club is a competitive football team representing the University of Johannesburg in various leagues and tournaments. The team is known for its strong performance and commitment to excellence in the sport.",
+        "number_of_leagues": 3
+    },
+    {
+        "team_id": 22231,
+        "image_url": "https://usaf.ac.za/wp-content/uploads/2023/08/University_of_Limpopo-logo.webp",
+        "team_name": "UL",
+        "team_description": "UJ Football Club is a competitive football team representing the University of Johannesburg in various leagues and tournaments. The team is known for its strong performance and commitment to excellence in the sport.",
+        "number_of_leagues": 3
+    },
+    {
+        "team_id": 22230,
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/University_of_Venda_logo.svg/1200px-University_of_Venda_logo.svg.png",
+        "team_name": "Venda",
+        "team_description": "UJ Football Club is a competitive football team representing the University of Johannesburg in various leagues and tournaments. The team is known for its strong performance and commitment to excellence in the sport.",
+        "number_of_leagues": 3
+    },
+    {
+        "team_id": 22031,
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/UKZN_logo.svg/1920px-UKZN_logo.svg.png",
+        "team_name": "UKZN",
+        "team_description": "UJ Football Club is a competitive football team representing the University of Johannesburg in various leagues and tournaments. The team is known for its strong performance and commitment to excellence in the sport.",
+        "number_of_leagues": 3
+    },
+    {
+        "team_id": 22330,
+        "image_url": "https://cdn.freelogovectors.net/wp-content/uploads/2022/03/cput_logo_freelogovectors.net_.png",
+        "team_name": "CPUT",
+        "team_description": "UJ Football Club is a competitive football team representing the University of Johannesburg in various leagues and tournaments. The team is known for its strong performance and commitment to excellence in the sport.",
+        "number_of_leagues": 3
+    },
+    {
+        "team_id": 22231,
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/The_Durban_University_of_Technology_new_log.jpg",
+        "team_name": "DUT",
+        "team_description": "UJ Football Club is a competitive football team representing the University of Johannesburg in various leagues and tournaments. The team is known for its strong performance and commitment to excellence in the sport.",
+        "number_of_leagues": 3
+    },
+    {
+        "team_id": 20031,
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/49/Tshwane_University_of_Technology_logo.svg/1200px-Tshwane_University_of_Technology_logo.svg.png",
+        "team_name": "TUT",
+        "team_description": "UJ Football Club is a competitive football team representing the University of Johannesburg in various leagues and tournaments. The team is known for its strong performance and commitment to excellence in the sport.",
+        "number_of_leagues": 3
+    },
+    {
+        "team_id": 26231,
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/VUT_logo-TM.png",
+        "team_name": "VUT",
+        "team_description": "UJ Football Club is a competitive football team representing the University of Johannesburg in various leagues and tournaments. The team is known for its strong performance and commitment to excellence in the sport.",
+        "number_of_leagues": 4
+    },
+    {
+        "team_id": 25231,
+        "image_url": "https://cms.cut.ac.za/Files/Froala/1fe976e3-b12d-49a3-9fca-461f917eadb1.jpg",
+        "team_name": "CUT",
+        "team_description": "UJ Football Club is a competitive football team representing the University of Johannesburg in various leagues and tournaments. The team is known for its strong performance and commitment to excellence in the sport.",
+        "number_of_leagues": 3
+    },
+    {
+        "team_id": 20002,
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/f/fc/University_of_Fort_Hare_logo.svg",
+        "team_name": "Fort Hare",
+        "team_description": "UJ Football Club is a competitive football team representing the University of Johannesburg in various leagues and tournaments. The team is known for its strong performance and commitment to excellence in the sport.",
+        "number_of_leagues": 3
+    }
+
+    ],
+
+    "basket_ball": [
+                {
+            "team_id": 10002,
+            "image_url": "https://safagauteng.org.za/wp-content/uploads/2023/03/University-of-Johannesburg-FC_logo.png",
+            "team_name": "UJ FC",
+            "team_description": "UJ Football Club is a competitive football team representing the University of Johannesburg in various leagues and tournaments. The team is known for its strong performance and commitment to excellence in the sport.",
+            "number_of_leagues": 3
+        },
+        {
+            "team_id": 3003,
+            "image_url": "Basketball (USSA)",
+            "team_name": "Wits University",
+            "team_description": "Participates in Cricket (USSA), Rugby (Varsity Cup, USSA), Basketball (USSA), and Netball (Varsity, USSA).",
+            "number_of_leagues": 5
+        },
+        {
+            "team_id": 2002,
+            "image_url": "Netball (USSA)",
+            "team_name": "University of Cape Town (UCT)",
+            "team_description": "Competes in Cricket (USSA Cricket Championship), Rugby (Varsity Cup, USSA), Basketball (USSA), and Netball (USSA).",
+            "number_of_leagues": 5
+        },
+        {
+            "team_id": 30003,
+            "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/University_of_the_Free_State_shield.svg/1200px-University_of_the_Free_State_shield.svg.png",
+            "team_name": "UFS",
+            "team_description": "UJ Football Club is a competitive football team representing the University of Johannesburg in various leagues and tournaments. The team is known for its strong performance and commitment to excellence in the sport.",
+            "number_of_leagues": 3
+        },
+        {
+            "team_id": 16,
+            "image_url": "https://example.com/images/braamfontein_blues.png",
+            "team_name": "Braamfontein Blues",
+            "team_description": "Competes in Basketball (Men's Division 1).",
+            "number_of_leagues": 1
+       },
+           {
+        "team_id": 20003,
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/f/fc/University_of_Fort_Hare_logo.svg",
+        "team_name": "Fort Hare",
+        "team_description": "UJ Football Club is a competitive football team representing the University of Johannesburg in various leagues and tournaments. The team is known for its strong performance and commitment to excellence in the sport.",
+        "number_of_leagues": 3
+    },
+    {
+        "team_id": 23230,
+        "image_url": "https://www.govpage.co.za/uploads/2/4/0/5/24052997/walter-sisulu-university_orig.jpg",
+        "team_name": "Walter Sisulu",
+        "team_description": "UJ Football Club is a competitive football team representing the University of Johannesburg in various leagues and tournaments. The team is known for its strong performance and commitment to excellence in the sport.",
+        "number_of_leagues": 3
+    },
+    {
+        "team_id": 21331,
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/14/University_of_Zululand_logo.svg/1200px-University_of_Zululand_logo.svg.png",
+        "team_name": "Zululand",
+        "team_description": "UJ Football Club is a competitive football team representing the University of Johannesburg in various leagues and tournaments. The team is known for its strong performance and commitment to excellence in the sport.",
+        "number_of_leagues": 3
+    },
+    {
+        "team_id": 22330,
+        "image_url": "https://cdn.freelogovectors.net/wp-content/uploads/2022/03/cput_logo_freelogovectors.net_.png",
+        "team_name": "CPUT",
+        "team_description": "UJ Football Club is a competitive football team representing the University of Johannesburg in various leagues and tournaments. The team is known for its strong performance and commitment to excellence in the sport.",
+        "number_of_leagues": 3
+    },
+    {
+        "team_id": 22231,
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/The_Durban_University_of_Technology_new_log.jpg",
+        "team_name": "DUT",
+        "team_description": "UJ Football Club is a competitive football team representing the University of Johannesburg in various leagues and tournaments. The team is known for its strong performance and commitment to excellence in the sport.",
+        "number_of_leagues": 3
+    },
+    {
+        "team_id": 20031,
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/49/Tshwane_University_of_Technology_logo.svg/1200px-Tshwane_University_of_Technology_logo.svg.png",
+        "team_name": "TUT",
+        "team_description": "UJ Football Club is a competitive football team representing the University of Johannesburg in various leagues and tournaments. The team is known for its strong performance and commitment to excellence in the sport.",
+        "number_of_leagues": 3
+    },
+    {
+        "team_id": 26231,
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/VUT_logo-TM.png",
+        "team_name": "VUT",
+        "team_description": "UJ Football Club is a competitive football team representing the University of Johannesburg in various leagues and tournaments. The team is known for its strong performance and commitment to excellence in the sport.",
+        "number_of_leagues": 4
+    },
+    {
+        "team_id": 25231,
+        "image_url": "https://cms.cut.ac.za/Files/Froala/1fe976e3-b12d-49a3-9fca-461f917eadb1.jpg",
+        "team_name": "CUT",
+        "team_description": "UJ Football Club is a competitive football team representing the University of Johannesburg in various leagues and tournaments. The team is known for its strong performance and commitment to excellence in the sport.",
+        "number_of_leagues": 3
+    },
+    {
+        "team_id": 21301,
+        "image_url": "https://static.wixstatic.com/media/9ef253_8e2ff0e89754477eac69be92fb74ee6d~mv2.jpeg/v1/fill/w_768,h_768,al_c,q_85,enc_avif,quality_auto/9ef253_8e2ff0e89754477eac69be92fb74ee6d~mv2.jpeg",
+        "team_name": "NWU",
+        "team_description": "UJ Football Club is a competitive football team representing the University of Johannesburg in various leagues and tournaments. The team is known for its strong performance and commitment to excellence in the sport.",
+        "number_of_leagues": 3
+    },
+    {
+        "team_id": 22231,
+        "image_url": "https://usaf.ac.za/wp-content/uploads/2023/08/University_of_Limpopo-logo.webp",
+        "team_name": "UL",
+        "team_description": "UJ Football Club is a competitive football team representing the University of Johannesburg in various leagues and tournaments. The team is known for its strong performance and commitment to excellence in the sport.",
+        "number_of_leagues": 3
+    },
+    {
+        "team_id": 22230,
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/9/9e/University_of_Venda_logo.svg/1200px-University_of_Venda_logo.svg.png",
+        "team_name": "Venda",
+        "team_description": "UJ Football Club is a competitive football team representing the University of Johannesburg in various leagues and tournaments. The team is known for its strong performance and commitment to excellence in the sport.",
+        "number_of_leagues": 3
+    },
+    {
+        "team_id": 22031,
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/b/be/UKZN_logo.svg/1920px-UKZN_logo.svg.png",
+        "team_name": "UKZN",
+        "team_description": "UJ Football Club is a competitive football team representing the University of Johannesburg in various leagues and tournaments. The team is known for its strong performance and commitment to excellence in the sport.",
+        "number_of_leagues": 3
+    },
+  {
+    "team_id": 1,
+    "image_url": "https://pbs.twimg.com/profile_images/378800000739934443/2e7b8c5f3e4f3b3b3b3b3b3b3b3b3b3b_400x400.jpeg",
+    "team_name": "Braamfontein Blues",
+    "team_description": "A non-profit sports development organization focused on Johannesburg Inner City kids, participating in the Inner City Super League.",
+    "number_of_leagues": 1
+  },
+  {
+    "team_id": 2,
+    "image_url": "https://www.facebook.com/HarborCityPrime/photos/a.101501234567890/101501234567891/",
+    "team_name": "City Prime",
+    "team_description": "A basketball team based in Johannesburg, participating in the Inner City Super League.",
+    "number_of_leagues": 1
+  },
+  {
+    "team_id": 3,
+    "image_url": "https://www.instagram.com/p/CI6xYx1h2xL/",
+    "team_name": "Edenvale Lions Basketball Academy",
+    "team_description": "A basketball academy situated in Edenvale, Johannesburg, grooming the next generation of global professional basketball players.",
+    "number_of_leagues": 1
+  },
+  {
+    "team_id": 4,
+    "image_url": "https://www.facebook.com/mbbbasketball/photos/a.101501234567890/101501234567891/",
+    "team_name": "MBB",
+    "team_description": "Made By Ball (MBB) is a South African basketball team based in Johannesburg, participating in the Basketball National League and Inner City Super League.",
+    "number_of_leagues": 2
+  },
+  {
+    "team_id": 5,
+    "image_url": "https://www.instagram.com/p/CI6xYx1h2xL/",
+    "team_name": "Midrand Heat",
+    "team_description": "A South African basketball team participating in the Johannesburg Basketball League.",
+    "number_of_leagues": 1
+  },
+  {
+    "team_id": 6,
+    "image_url": "https://www.facebook.com/jozinuggets/photos/a.101501234567890/101501234567891/",
+    "team_name": "Jozi Nuggets",
+    "team_description": "A basketball club created for the love of life and sport, based in Johannesburg.",
+    "number_of_leagues": 1
+  },
+  {
+    "team_id": 7,
+    "image_url": "https://www.facebook.com/p/Pythons-Basketball-Club-61557913419852/",
+    "team_name": "Pythons",
+    "team_description": "A basketball club participating in local leagues.",
+    "number_of_leagues": 1
+  },
+  {
+    "team_id": 8,
+    "image_url": "https://www.instagram.com/randburgrhinos/",
+    "team_name": "Randburg Rhinos",
+    "team_description": "A basketball club based in Randburg, participating in the Johannesburg Basketball Association.",
+    "number_of_leagues": 1
+  },
+  {
+    "team_id": 9,
+    "image_url": "https://www.facebook.com/rising.suns.basketball/photos/a.101501234567890/101501234567891/",
+    "team_name": "Rising Suns",
+    "team_description": "A basketball team participating in local leagues.",
+    "number_of_leagues": 1
+  },
+  {
+    "team_id": 10,
+    "image_url": "https://www.instagram.com/tut_basketball/",
+    "team_name": "Tshwane University of Technology",
+    "team_description": "The basketball team of Tshwane University of Technology, participating in university leagues.",
+    "number_of_leagues": 1
+  },
+  {
+    "team_id": 11,
+    "image_url": "https://www.instagram.com/witsbasketball/",
+    "team_name": "Wits University",
+    "team_description": "The basketball team of the University of the Witwatersrand, participating in university leagues.",
+    "number_of_leagues": 1
+  },
+  {
+    "team_id": 12,
+    "image_url": "https://www.facebook.com/alexwolvesbasketball/photos/a.101501234567890/101501234567891/",
+    "team_name": "Alex Wolves",
+    "team_description": "A basketball team based in Alexandra, participating in local leagues.",
+    "number_of_leagues": 1
+  },
+  {
+    "team_id": 13,
+    "image_url": "https://www.facebook.com/goodfellasbasketball/photos/a.101501234567890/101501234567891/",
+    "team_name": "Goodfellas",
+    "team_description": "A basketball team participating in local leagues.",
+    "number_of_leagues": 1
+  },
+  {
+    "team_id": 14,
+    "image_url": "https://www.instagram.com/iie_msa_basketball/",
+    "team_name": "IIE MSA",
+    "team_description": "The basketball team of IIE MSA, participating in university leagues.",
+    "number_of_leagues": 1
+  },
+  {
+    "team_id": 15,
+    "image_url": "https://www.facebook.com/imperialtaitansbasketball/photos/a.101501234567890/101501234567891/",
+    "team_name": "Imperial Taitans",
+    "team_description": "A basketball team participating in local leagues.",
+    "number_of_leagues": 1
+  },
+  {
+    "team_id": 16,
+    "image_url": "https://www.facebook.com/younglegendsbasketball/photos/a.101501234567890/101501234567891/",
+    "team_name": "Young Legends",
+    "team_description": "A basketball team participating in local leagues.",
+    "number_of_leagues": 1
+  },
+  {
+    "team_id": 17,
+    "image_url": "https://www.facebook.com/skywalkersbasketball/photos/a.101501234567890/101501234567891/",
+    "team_name": "Skywalkers",
+    "team_description": "A basketball team participating in local leagues.",
+    "number_of_leagues": 1
+  },
+  {
+    "team_id": 18,
+    "image_url": "https://www.facebook.com/spartansbasketball/photos/a.101501234567890/101501234567891/",
+    "team_name": "Spartans",
+    "team_description": "A basketball team participating in local leagues.",
+    "number_of_leagues": 1
+  },
+  {
+    "team_id": 19,
+    "image_url": "https://www.facebook.com/jozistarsbasketball/photos/a.101501234567890/101501234567891/",
+    "team_name": "Jozi Stars",
+    "team_description": "A basketball team participating in local leagues.",
+    "number_of_leagues": 1
+  },
+  {
+    "team_id": 20,
+    "image_url": "https://www.facebook.com/sunfirebasketball/photos/a.101501234567890/101501234567891/",
+    "team_name": "Sunfire",
+    "team_description": "A basketball team participating in local leagues.",
+    "number_of_leagues": 1
+  },
+  {
+    "team_id": 21,
+    "image_url": "https://www.facebook.com/ujbasketball/photos/a.101501234567890/101501234567891/",
+    "team_name": "University of Johannesburg 2nd team",
+    "team_description": "The second basketball team of the University of Johannesburg, participating in university leagues.",
+    "number_of_leagues": 1
+  },
+  {
+    "team_id": 22,
+    "image_url": "https://www.instagram.com/witsbasketball/",
+    "team_name": "Wits Young Bucks",
+    "team_description": "The second basketball team of Wits University, participating in university leagues.",
+    "number_of_leagues": 1
+  },
+  {
+    "team_id": 23,
+    "image_url": "https://www.facebook.com/celticsfinestbasketball/photos/a.101501234567890/101501234567891/",
+    "team_name": "Celtics Finest",
+    "team_description": "A basketball team participating in local leagues.",
+    "number_of_leagues": 1
+  },
+  {
+    "team_id": 24,
+    "image_url": "https://www.facebook.com/alexbcbasketball/photos/a.101501234567890/101501234567891/",
+    "team_name": "AlexBC",
+    "team_description": "A basketball team based in Alexandra, participating in local leagues.",
+    "number_of_leagues": 1
+  }
+
+    ],
+
+    "cricket_teams": [
+            {
+                "team_id": 10003,
+                "image_url": "https://safagauteng.org.za/wp-content/uploads/2023/03/University-of-Johannesburg-FC_logo.png",
+                "team_name": "UJ FC",
+                "team_description": "UJ Football Club is a competitive football team representing the University of Johannesburg in various leagues and tournaments. The team is known for its strong performance and commitment to excellence in the sport.",
+                "number_of_leagues": 3
+           },
+           {
+                "team_id": 3003,
+                "image_url": "cricket ussa",
+                "team_name": "Wits University",
+                "team_description": "Participates in Cricket (USSA), Rugby (Varsity Cup, USSA), Basketball (USSA), and Netball (Varsity, USSA).",
+                "number_of_leagues": 5
+            },
+            {
+                "team_id": 3003,
+                "image_url": "maties_cricket.png",
+                "team_name": "Stellenbosch University (Maties)",
+                "team_description": "Participates in Cricket (USSA), Rugby (Varsity Cup, USSA), Basketball (USSA), and Netball (Varsity, USSA).",
+                "number_of_leagues": 5
+            },
+            {
+                "team_id": 30003,
+                "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/8/8f/University_of_the_Free_State_shield.svg/1200px-University_of_the_Free_State_shield.svg.png",
+                "team_name": "UFS",
+                "team_description": "UJ Football Club is a competitive football team representing the University of Johannesburg in various leagues and tournaments. The team is known for its strong performance and commitment to excellence in the sport.",
+                "number_of_leagues": 3
+            },
+                {
+        "team_id": 20003,
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/f/fc/University_of_Fort_Hare_logo.svg",
+        "team_name": "Fort Hare",
+        "team_description": "UJ Football Club is a competitive football team representing the University of Johannesburg in various leagues and tournaments. The team is known for its strong performance and commitment to excellence in the sport.",
+        "number_of_leagues": 3
+    },
+    {
+        "team_id": 23230,
+        "image_url": "https://www.govpage.co.za/uploads/2/4/0/5/24052997/walter-sisulu-university_orig.jpg",
+        "team_name": "Walter Sisulu",
+        "team_description": "UJ Football Club is a competitive football team representing the University of Johannesburg in various leagues and tournaments. The team is known for its strong performance and commitment to excellence in the sport.",
+        "number_of_leagues": 3
+    },
+
+    {
+        "team_id": 21331,
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/1/14/University_of_Zululand_logo.svg/1200px-University_of_Zululand_logo.svg.png",
+        "team_name": "Zululand",
+        "team_description": "UJ Football Club is a competitive football team representing the University of Johannesburg in various leagues and tournaments. The team is known for its strong performance and commitment to excellence in the sport.",
+        "number_of_leagues": 3
+    },
+
+    {
+        "team_id": 22330,
+        "image_url": "https://cdn.freelogovectors.net/wp-content/uploads/2022/03/cput_logo_freelogovectors.net_.png",
+        "team_name": "CPUT",
+        "team_description": "UJ Football Club is a competitive football team representing the University of Johannesburg in various leagues and tournaments. The team is known for its strong performance and commitment to excellence in the sport.",
+        "number_of_leagues": 3
+    },
+
+    {
+        "team_id": 22231,
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/8/8c/The_Durban_University_of_Technology_new_log.jpg",
+        "team_name": "DUT",
+        "team_description": "UJ Football Club is a competitive football team representing the University of Johannesburg in various leagues and tournaments. The team is known for its strong performance and commitment to excellence in the sport.",
+        "number_of_leagues": 3
+    },
+
+    {
+        "team_id": 20031,
+        "image_url": "https://upload.wikimedia.org/wikipedia/en/thumb/4/49/Tshwane_University_of_Technology_logo.svg/1200px-Tshwane_University_of_Technology_logo.svg.png",
+        "team_name": "TUT",
+        "team_description": "UJ Football Club is a competitive football team representing the University of Johannesburg in various leagues and tournaments. The team is known for its strong performance and commitment to excellence in the sport.",
+        "number_of_leagues": 3
+    },
+
+    {
+        "team_id": 26231,
+        "image_url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/VUT_logo-TM.png",
+        "team_name": "VUT",
+        "team_description": "UJ Football Club is a competitive football team representing the University of Johannesburg in various leagues and tournaments. The team is known for its strong performance and commitment to excellence in the sport.",
+        "number_of_leagues": 4
+    },
+
+    {
+        "team_id": 25231,
+        "image_url": "https://cms.cut.ac.za/Files/Froala/1fe976e3-b12d-49a3-9fca-461f917eadb1.jpg",
+        "team_name": "CUT",
+        "team_description": "UJ Football Club is a competitive football team representing the University of Johannesburg in various leagues and tournaments. The team is known for its strong performance and commitment to excellence in the sport.",
+        "number_of_leagues": 3
+    }
+    ]
+
+    
+}
